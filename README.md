@@ -60,13 +60,18 @@ This project completely eliminates the 9 critical structural gaps uncovered in t
    git clone https://github.com
    cd mastercard-career-chatbot
    ```
-
-2. **Download required NLTK corpuses**
+   
+2. **Install core dependencies**
+   ```bash
+   pip install -r requirements.txt
+    ```
+   
+3. **Download required NLTK corpuses**
    ```bash
    python -c "import nltk; nltk.download('punkt'); nltk.download('wordnet')"
    ```
 
-3. **Launch the application UI**
+4. **Launch the application UI**
    ```bash
    streamlit run app.py
    ```
