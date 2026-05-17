@@ -1,0 +1,3927 @@
+[
+  {
+    "context": "hello good afternoon",
+    "response": "Namaste! How can I help you explore careers at Mastercard?",
+    "intent": "greeting"
+  },
+  {
+    "context": "jobs in india remote",
+    "response": "Here are some job openings that match your search!",
+    "intent": "job_search"
+  },
+  {
+    "context": "lol",
+    "response": "I'm specialized in Mastercard career queries only. Try asking about jobs or internships!",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "company events",
+    "response": "Mastercard is known for its inclusive, innovative culture with strong work-life balance!",
+    "intent": "company_culture"
+  },
+  {
+    "context": "industrial internship",
+    "response": "Great choice! Here are our current internship listings.",
+    "intent": "internship"
+  },
+  {
+    "context": "set an alarm",
+    "response": "I'm specialized in Mastercard career queries only. Try asking about jobs or internships!",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "walk me through the application",
+    "response": "To apply, visit our job board and click 'Apply Now' on any role.",
+    "intent": "apply"
+  },
+  {
+    "context": "ok",
+    "response": "I'm specialized in Mastercard career queries only. Try asking about jobs or internships!",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "internship with stipend",
+    "response": "Found some internship openings for you!",
+    "intent": "internship"
+  },
+  {
+    "context": "postgraduate internship",
+    "response": "Great choice! Here are our current internship listings.",
+    "intent": "internship"
+  },
+  {
+    "context": "glassdoor rating",
+    "response": "Mastercard is known for its inclusive, innovative culture with strong work-life balance!",
+    "intent": "company_culture"
+  },
+  {
+    "context": "how to upload resume",
+    "response": "Head to the job listing you want and click Apply — you'll find the resume upload option there.",
+    "intent": "resume"
+  },
+  {
+    "context": "abcdefg",
+    "response": "I'm not able to help with that, but I can definitely help you find your dream job at Mastercard!",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "i want to submit my application",
+    "response": "To apply, visit our job board and click 'Apply Now' on any role.",
+    "intent": "apply"
+  },
+  {
+    "context": "hello long time no chat",
+    "response": "Hello! Welcome to Mastercard Careers. What can I help you with?",
+    "intent": "greeting"
+  },
+  {
+    "context": "first year internship",
+    "response": "Found some internship openings for you!",
+    "intent": "internship"
+  },
+  {
+    "context": "how do i apply for a job",
+    "response": "The application process is simple — find a job, click apply, and submit your resume.",
+    "intent": "apply"
+  },
+  {
+    "context": "hello can you help me",
+    "response": "Hello! Welcome to Mastercard Careers. What can I help you with?",
+    "intent": "greeting"
+  },
+  {
+    "context": "hey bot are you there",
+    "response": "Namaste! How can I help you explore careers at Mastercard?",
+    "intent": "greeting"
+  },
+  {
+    "context": "recharge my phone",
+    "response": "I'm specialized in Mastercard career queries only. Try asking about jobs or internships!",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "mastercard ki values kya hain",
+    "response": "Mastercard values diversity and inclusion. Employees enjoy flexible work, learning programs, and competitive benefits.",
+    "intent": "company_culture"
+  },
+  {
+    "context": "jobs for 8 to 12 years experience",
+    "response": "Here are jobs matching your experience level!",
+    "intent": "experience_filter"
+  },
+  {
+    "context": "junior position",
+    "response": "Found positions suited to your experience.",
+    "intent": "experience_filter"
+  },
+  {
+    "context": "my resume is ready what next",
+    "response": "We accept PDF and Word document formats for resumes.",
+    "intent": "resume"
+  },
+  {
+    "context": "github link add karein kya",
+    "response": "We accept PDF and Word document formats for resumes.",
+    "intent": "resume"
+  },
+  {
+    "context": "i have 4 years of experience",
+    "response": "Found positions suited to your experience.",
+    "intent": "experience_filter"
+  },
+  {
+    "context": "hey there how are you",
+    "response": "Namaste! How can I help you explore careers at Mastercard?",
+    "intent": "greeting"
+  },
+  {
+    "context": "hey can you assist me",
+    "response": "Hi there! How can I help you with your job search today?",
+    "intent": "greeting"
+  },
+  {
+    "context": "new to this field",
+    "response": "Let me filter jobs based on your experience.",
+    "intent": "experience_filter"
+  },
+  {
+    "context": "naukri for experienced",
+    "response": "Here are jobs matching your experience level!",
+    "intent": "experience_filter"
+  },
+  {
+    "context": "jobs for senior engineers",
+    "response": "Let me filter jobs based on your experience.",
+    "intent": "experience_filter"
+  },
+  {
+    "context": "growth opportunities kya hain",
+    "response": "Mastercard values diversity and inclusion. Employees enjoy flexible work, learning programs, and competitive benefits.",
+    "intent": "company_culture"
+  },
+  {
+    "context": "pay my bill",
+    "response": "Hmm, that's outside my expertise! I can help with job searches, applications, and careers at Mastercard.",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "associate consultant jobs",
+    "response": "Let me filter jobs based on your experience.",
+    "intent": "experience_filter"
+  },
+  {
+    "context": "compensation package kya hai",
+    "response": "Mastercard values diversity and inclusion. Employees enjoy flexible work, learning programs, and competitive benefits.",
+    "intent": "company_culture"
+  },
+  {
+    "context": "wow",
+    "response": "I'm not able to help with that, but I can definitely help you find your dream job at Mastercard!",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "how do i use this",
+    "response": "I can help you find jobs, internships, guide you to apply, and answer career questions!",
+    "intent": "help"
+  },
+  {
+    "context": "joining process kya hai",
+    "response": "Mastercard values diversity and inclusion. Employees enjoy flexible work, learning programs, and competitive benefits.",
+    "intent": "company_culture"
+  },
+  {
+    "context": "show business analyst jobs",
+    "response": "Great! Here are the available job listings.",
+    "intent": "job_search"
+  },
+  {
+    "context": "what happens after i apply",
+    "response": "The application process is simple — find a job, click apply, and submit your resume.",
+    "intent": "apply"
+  },
+  {
+    "context": "1 year experience jobs",
+    "response": "Here are jobs matching your experience level!",
+    "intent": "experience_filter"
+  },
+  {
+    "context": "mnc jobs",
+    "response": "I found several positions for you. Take a look!",
+    "intent": "job_search"
+  },
+  {
+    "context": "okay",
+    "response": "Hmm, that's outside my expertise! I can help with job searches, applications, and careers at Mastercard.",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "tell me a story",
+    "response": "Hmm, that's outside my expertise! I can help with job searches, applications, and careers at Mastercard.",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "hello there",
+    "response": "Namaste! How can I help you explore careers at Mastercard?",
+    "intent": "greeting"
+  },
+  {
+    "context": "0 years experience jobs",
+    "response": "Found positions suited to your experience.",
+    "intent": "experience_filter"
+  },
+  {
+    "context": "show sales jobs",
+    "response": "Great! Here are the available job listings.",
+    "intent": "job_search"
+  },
+  {
+    "context": "fresh openings",
+    "response": "I found several positions for you. Take a look!",
+    "intent": "job_search"
+  },
+  {
+    "context": "online assessment kya hai",
+    "response": "The application process is simple — find a job, click apply, and submit your resume.",
+    "intent": "apply"
+  },
+  {
+    "context": "amazon sale",
+    "response": "I'm specialized in Mastercard career queries only. Try asking about jobs or internships!",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "career change chahiye",
+    "response": "I can help you find jobs, internships, guide you to apply, and answer career questions!",
+    "intent": "help"
+  },
+  {
+    "context": "best restaurant near me",
+    "response": "Hmm, that's outside my expertise! I can help with job searches, applications, and careers at Mastercard.",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "how many days work from home",
+    "response": "Mastercard is known for its inclusive, innovative culture with strong work-life balance!",
+    "intent": "company_culture"
+  },
+  {
+    "context": "apply now",
+    "response": "The application process is simple — find a job, click apply, and submit your resume.",
+    "intent": "apply"
+  },
+  {
+    "context": "hi there how are things",
+    "response": "Namaste! How can I help you explore careers at Mastercard?",
+    "intent": "greeting"
+  },
+  {
+    "context": "team culture",
+    "response": "Mastercard values diversity and inclusion. Employees enjoy flexible work, learning programs, and competitive benefits.",
+    "intent": "company_culture"
+  },
+  {
+    "context": "current job openings",
+    "response": "I found several positions for you. Take a look!",
+    "intent": "job_search"
+  },
+  {
+    "context": "bonus structure kya hai",
+    "response": "Mastercard is known for its inclusive, innovative culture with strong work-life balance!",
+    "intent": "company_culture"
+  },
+  {
+    "context": "how do i get started with applying",
+    "response": "To apply, visit our job board and click 'Apply Now' on any role.",
+    "intent": "apply"
+  },
+  {
+    "context": "hello bot how are you",
+    "response": "Hello! Welcome to Mastercard Careers. What can I help you with?",
+    "intent": "greeting"
+  },
+  {
+    "context": "what resume format is accepted",
+    "response": "You can upload your resume during the job application process on our careers site.",
+    "intent": "resume"
+  },
+  {
+    "context": "internship apply kaise karu",
+    "response": "Here are the internship opportunities we have available!",
+    "intent": "internship"
+  },
+  {
+    "context": "jobs for junior developers",
+    "response": "Here are jobs matching your experience level!",
+    "intent": "experience_filter"
+  },
+  {
+    "context": "campus hire jobs",
+    "response": "Let me filter jobs based on your experience.",
+    "intent": "experience_filter"
+  },
+  {
+    "context": "learning and development",
+    "response": "Mastercard values diversity and inclusion. Employees enjoy flexible work, learning programs, and competitive benefits.",
+    "intent": "company_culture"
+  },
+  {
+    "context": "jobs for mba",
+    "response": "Here are some job openings that match your search!",
+    "intent": "job_search"
+  },
+  {
+    "context": "promotion policy kya hai",
+    "response": "Mastercard values diversity and inclusion. Employees enjoy flexible work, learning programs, and competitive benefits.",
+    "intent": "company_culture"
+  },
+  {
+    "context": "where do i submit my resume",
+    "response": "You can upload your resume during the job application process on our careers site.",
+    "intent": "resume"
+  },
+  {
+    "context": "internship leading to job",
+    "response": "Here are the internship opportunities we have available!",
+    "intent": "internship"
+  },
+  {
+    "context": "namaste",
+    "response": "Hi there! How can I help you with your job search today?",
+    "intent": "greeting"
+  },
+  {
+    "context": "show me data science jobs",
+    "response": "Sure! Let me pull up the job listings for you.",
+    "intent": "job_search"
+  },
+  {
+    "context": "can i track my application",
+    "response": "To apply, visit our job board and click 'Apply Now' on any role.",
+    "intent": "apply"
+  },
+  {
+    "context": "jobs requiring 5 plus years",
+    "response": "Here are jobs matching your experience level!",
+    "intent": "experience_filter"
+  },
+  {
+    "context": "resume kahan submit karu",
+    "response": "You can upload your resume during the job application process on our careers site.",
+    "intent": "resume"
+  },
+  {
+    "context": "hi good to connect",
+    "response": "Hey! Looking for a job or internship? I'm here to help!",
+    "intent": "greeting"
+  },
+  {
+    "context": "help me with homework",
+    "response": "I'm specialized in Mastercard career queries only. Try asking about jobs or internships!",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "mechanical internship",
+    "response": "Great choice! Here are our current internship listings.",
+    "intent": "internship"
+  },
+  {
+    "context": "show jobs in bangalore",
+    "response": "Great! Here are the available job listings.",
+    "intent": "job_search"
+  },
+  {
+    "context": "resume length kitni honi chahiye",
+    "response": "Head to the job listing you want and click Apply — you'll find the resume upload option there.",
+    "intent": "resume"
+  },
+  {
+    "context": "mujhe 2 saal ka experience hai",
+    "response": "Let me filter jobs based on your experience.",
+    "intent": "experience_filter"
+  },
+  {
+    "context": "good afternoon",
+    "response": "Namaste! How can I help you explore careers at Mastercard?",
+    "intent": "greeting"
+  },
+  {
+    "context": "show jobs for my experience level",
+    "response": "Found positions suited to your experience.",
+    "intent": "experience_filter"
+  },
+  {
+    "context": "internship program details",
+    "response": "Found some internship openings for you!",
+    "intent": "internship"
+  },
+  {
+    "context": "how to grow in career",
+    "response": "Think of me as your Mastercard career guide! Ask about jobs, roles, or how to apply.",
+    "intent": "help"
+  },
+  {
+    "context": "which job suits me",
+    "response": "Think of me as your Mastercard career guide! Ask about jobs, roles, or how to apply.",
+    "intent": "help"
+  },
+  {
+    "context": "wassup",
+    "response": "Hello! Welcome to Mastercard Careers. What can I help you with?",
+    "intent": "greeting"
+  },
+  {
+    "context": "work environment kya hai",
+    "response": "We offer a collaborative work environment, hybrid work options, and great career growth opportunities.",
+    "intent": "company_culture"
+  },
+  {
+    "context": "hey i am here",
+    "response": "Namaste! How can I help you explore careers at Mastercard?",
+    "intent": "greeting"
+  },
+  {
+    "context": "recruitment process explain karo",
+    "response": "To apply, visit our job board and click 'Apply Now' on any role.",
+    "intent": "apply"
+  },
+  {
+    "context": "hi ready to help",
+    "response": "Namaste! How can I help you explore careers at Mastercard?",
+    "intent": "greeting"
+  },
+  {
+    "context": "finance jobs available",
+    "response": "I found several positions for you. Take a look!",
+    "intent": "job_search"
+  },
+  {
+    "context": "6 month internship",
+    "response": "Here are the internship opportunities we have available!",
+    "intent": "internship"
+  },
+  {
+    "context": "employee referral",
+    "response": "To apply, visit our job board and click 'Apply Now' on any role.",
+    "intent": "apply"
+  },
+  {
+    "context": "associate level jobs",
+    "response": "Let me filter jobs based on your experience.",
+    "intent": "experience_filter"
+  },
+  {
+    "context": "jobs dikhao",
+    "response": "I found several positions for you. Take a look!",
+    "intent": "job_search"
+  },
+  {
+    "context": "help me",
+    "response": "I can help you find jobs, internships, guide you to apply, and answer career questions!",
+    "intent": "help"
+  },
+  {
+    "context": "help",
+    "response": "Think of me as your Mastercard career guide! Ask about jobs, roles, or how to apply.",
+    "intent": "help"
+  },
+  {
+    "context": "jobs for 10 years experience",
+    "response": "Here are jobs matching your experience level!",
+    "intent": "experience_filter"
+  },
+  {
+    "context": "i am new here",
+    "response": "Sure! I can show you job listings, internships, help with applications, and tell you about our culture.",
+    "intent": "help"
+  },
+  {
+    "context": "i am a recent graduate",
+    "response": "Let me filter jobs based on your experience.",
+    "intent": "experience_filter"
+  },
+  {
+    "context": "tell me about mastercard",
+    "response": "Mastercard is known for its inclusive, innovative culture with strong work-life balance!",
+    "intent": "company_culture"
+  },
+  {
+    "context": "fresher ke liye job",
+    "response": "Let me filter jobs based on your experience.",
+    "intent": "experience_filter"
+  },
+  {
+    "context": "hi guide me please",
+    "response": "Good to see you! How can I assist you today?",
+    "intent": "greeting"
+  },
+  {
+    "context": "junior level positions",
+    "response": "Let me filter jobs based on your experience.",
+    "intent": "experience_filter"
+  },
+  {
+    "context": "resume submit karna chahta hoon",
+    "response": "Head to the job listing you want and click Apply — you'll find the resume upload option there.",
+    "intent": "resume"
+  },
+  {
+    "context": "good morning",
+    "response": "Namaste! How can I help you explore careers at Mastercard?",
+    "intent": "greeting"
+  },
+  {
+    "context": "linkedin important hai kya",
+    "response": "We accept PDF and Word document formats for resumes.",
+    "intent": "resume"
+  },
+  {
+    "context": "exercise routine",
+    "response": "Hmm, that's outside my expertise! I can help with job searches, applications, and careers at Mastercard.",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "skills kaise likhein resume mein",
+    "response": "Head to the job listing you want and click Apply — you'll find the resume upload option there.",
+    "intent": "resume"
+  },
+  {
+    "context": "senior software engineer jobs",
+    "response": "Here are jobs matching your experience level!",
+    "intent": "experience_filter"
+  },
+  {
+    "context": "jobs for 5 years experience",
+    "response": "Here are jobs matching your experience level!",
+    "intent": "experience_filter"
+  },
+  {
+    "context": "just completed mba",
+    "response": "Found positions suited to your experience.",
+    "intent": "experience_filter"
+  },
+  {
+    "context": "hello ready to start",
+    "response": "Namaste! How can I help you explore careers at Mastercard?",
+    "intent": "greeting"
+  },
+  {
+    "context": "high paying jobs",
+    "response": "Great! Here are the available job listings.",
+    "intent": "job_search"
+  },
+  {
+    "context": "jobs in mumbai",
+    "response": "Sure! Let me pull up the job listings for you.",
+    "intent": "job_search"
+  },
+  {
+    "context": "lead position",
+    "response": "Found positions suited to your experience.",
+    "intent": "experience_filter"
+  },
+  {
+    "context": "second year internship",
+    "response": "Found some internship openings for you!",
+    "intent": "internship"
+  },
+  {
+    "context": "show marketing jobs",
+    "response": "Sure! Let me pull up the job listings for you.",
+    "intent": "job_search"
+  },
+  {
+    "context": "work timings kya hain",
+    "response": "Mastercard values diversity and inclusion. Employees enjoy flexible work, learning programs, and competitive benefits.",
+    "intent": "company_culture"
+  },
+  {
+    "context": "testing testing",
+    "response": "I'm specialized in Mastercard career queries only. Try asking about jobs or internships!",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "resume dos and donts",
+    "response": "Head to the job listing you want and click Apply — you'll find the resume upload option there.",
+    "intent": "resume"
+  },
+  {
+    "context": "hello need some guidance",
+    "response": "Hello! Welcome to Mastercard Careers. What can I help you with?",
+    "intent": "greeting"
+  },
+  {
+    "context": "hey bot what can you do",
+    "response": "Hello! Welcome to Mastercard Careers. What can I help you with?",
+    "intent": "greeting"
+  },
+  {
+    "context": "hey how is your afternoon",
+    "response": "Hey! Looking for a job or internship? I'm here to help!",
+    "intent": "greeting"
+  },
+  {
+    "context": "internship for students",
+    "response": "Found some internship openings for you!",
+    "intent": "internship"
+  },
+  {
+    "context": "hey namaste",
+    "response": "Hey! Looking for a job or internship? I'm here to help!",
+    "intent": "greeting"
+  },
+  {
+    "context": "hello is anyone there",
+    "response": "Namaste! How can I help you explore careers at Mastercard?",
+    "intent": "greeting"
+  },
+  {
+    "context": "mba internship",
+    "response": "Here are the internship opportunities we have available!",
+    "intent": "internship"
+  },
+  {
+    "context": "what is this bot for",
+    "response": "Think of me as your Mastercard career guide! Ask about jobs, roles, or how to apply.",
+    "intent": "help"
+  },
+  {
+    "context": "asdfgh",
+    "response": "I'm not able to help with that, but I can definitely help you find your dream job at Mastercard!",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "any new internships",
+    "response": "Here are the internship opportunities we have available!",
+    "intent": "internship"
+  },
+  {
+    "context": "what do you offer",
+    "response": "I can help you find jobs, internships, guide you to apply, and answer career questions!",
+    "intent": "help"
+  },
+  {
+    "context": "need some help",
+    "response": "Think of me as your Mastercard career guide! Ask about jobs, roles, or how to apply.",
+    "intent": "help"
+  },
+  {
+    "context": "what should i ask",
+    "response": "Think of me as your Mastercard career guide! Ask about jobs, roles, or how to apply.",
+    "intent": "help"
+  },
+  {
+    "context": "application deadline kya hai",
+    "response": "The application process is simple — find a job, click apply, and submit your resume.",
+    "intent": "apply"
+  },
+  {
+    "context": "marry me",
+    "response": "Hmm, that's outside my expertise! I can help with job searches, applications, and careers at Mastercard.",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "student internship program",
+    "response": "Great choice! Here are our current internship listings.",
+    "intent": "internship"
+  },
+  {
+    "context": "how far is moon",
+    "response": "I'm not able to help with that, but I can definitely help you find your dream job at Mastercard!",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "latest internship postings",
+    "response": "Great choice! Here are our current internship listings.",
+    "intent": "internship"
+  },
+  {
+    "context": "third year internship",
+    "response": "Here are the internship opportunities we have available!",
+    "intent": "internship"
+  },
+  {
+    "context": "who is modi",
+    "response": "I'm not able to help with that, but I can definitely help you find your dream job at Mastercard!",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "csr activities hain kya",
+    "response": "Mastercard is known for its inclusive, innovative culture with strong work-life balance!",
+    "intent": "company_culture"
+  },
+  {
+    "context": "where to check application status",
+    "response": "The application process is simple — find a job, click apply, and submit your resume.",
+    "intent": "apply"
+  },
+  {
+    "context": "sup",
+    "response": "Namaste! How can I help you explore careers at Mastercard?",
+    "intent": "greeting"
+  },
+  {
+    "context": "good evening",
+    "response": "Hi there! How can I help you with your job search today?",
+    "intent": "greeting"
+  },
+  {
+    "context": "unpaid internship",
+    "response": "Great choice! Here are our current internship listings.",
+    "intent": "internship"
+  },
+  {
+    "context": "i am a fresher",
+    "response": "Let me filter jobs based on your experience.",
+    "intent": "experience_filter"
+  },
+  {
+    "context": "campus internship",
+    "response": "Found some internship openings for you!",
+    "intent": "internship"
+  },
+  {
+    "context": "resume kaise banate hain",
+    "response": "We accept PDF and Word document formats for resumes.",
+    "intent": "resume"
+  },
+  {
+    "context": "what skills do i need",
+    "response": "Sure! I can show you job listings, internships, help with applications, and tell you about our culture.",
+    "intent": "help"
+  },
+  {
+    "context": "list all jobs",
+    "response": "Great! Here are the available job listings.",
+    "intent": "job_search"
+  },
+  {
+    "context": "health benefits kya hain",
+    "response": "Mastercard is known for its inclusive, innovative culture with strong work-life balance!",
+    "intent": "company_culture"
+  },
+  {
+    "context": "what is ai",
+    "response": "I'm not able to help with that, but I can definitely help you find your dream job at Mastercard!",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "0 experience jobs",
+    "response": "Let me filter jobs based on your experience.",
+    "intent": "experience_filter"
+  },
+  {
+    "context": "hi how is your morning",
+    "response": "Hey! Looking for a job or internship? I'm here to help!",
+    "intent": "greeting"
+  },
+  {
+    "context": "it jobs",
+    "response": "Here are some job openings that match your search!",
+    "intent": "job_search"
+  },
+  {
+    "context": "apply kaise karu",
+    "response": "Head over to our job board and click 'I'm Interested' on any role to begin.",
+    "intent": "apply"
+  },
+  {
+    "context": "kya pooch sakta hoon",
+    "response": "Sure! I can show you job listings, internships, help with applications, and tell you about our culture.",
+    "intent": "help"
+  },
+  {
+    "context": "no",
+    "response": "I'm specialized in Mastercard career queries only. Try asking about jobs or internships!",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "meri madad karo",
+    "response": "Sure! I can show you job listings, internships, help with applications, and tell you about our culture.",
+    "intent": "help"
+  },
+  {
+    "context": "job ke liye form kahan bharu",
+    "response": "Head over to our job board and click 'I'm Interested' on any role to begin.",
+    "intent": "apply"
+  },
+  {
+    "context": "yes",
+    "response": "Hmm, that's outside my expertise! I can help with job searches, applications, and careers at Mastercard.",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "paid internship",
+    "response": "Great choice! Here are our current internship listings.",
+    "intent": "internship"
+  },
+  {
+    "context": "hello i am new here",
+    "response": "Hello! Welcome to Mastercard Careers. What can I help you with?",
+    "intent": "greeting"
+  },
+  {
+    "context": "employee recognition program",
+    "response": "We offer a collaborative work environment, hybrid work options, and great career growth opportunities.",
+    "intent": "company_culture"
+  },
+  {
+    "context": "analytics internship",
+    "response": "Here are the internship opportunities we have available!",
+    "intent": "internship"
+  },
+  {
+    "context": "projects kaise add karein",
+    "response": "We accept PDF and Word document formats for resumes.",
+    "intent": "resume"
+  },
+  {
+    "context": "resume review karo",
+    "response": "We accept PDF and Word document formats for resumes.",
+    "intent": "resume"
+  },
+  {
+    "context": "hello how are you",
+    "response": "Namaste! How can I help you explore careers at Mastercard?",
+    "intent": "greeting"
+  },
+  {
+    "context": "can you help me",
+    "response": "I can help you find jobs, internships, guide you to apply, and answer career questions!",
+    "intent": "help"
+  },
+  {
+    "context": "where do i apply",
+    "response": "The application process is simple — find a job, click apply, and submit your resume.",
+    "intent": "apply"
+  },
+  {
+    "context": "hi start",
+    "response": "Hello! Welcome to Mastercard Careers. What can I help you with?",
+    "intent": "greeting"
+  },
+  {
+    "context": "experienced professional jobs",
+    "response": "Let me filter jobs based on your experience.",
+    "intent": "experience_filter"
+  },
+  {
+    "context": "first time using this",
+    "response": "Think of me as your Mastercard career guide! Ask about jobs, roles, or how to apply.",
+    "intent": "help"
+  },
+  {
+    "context": "apply karna chahta hoon",
+    "response": "The application process is simple — find a job, click apply, and submit your resume.",
+    "intent": "apply"
+  },
+  {
+    "context": "never used this before",
+    "response": "Think of me as your Mastercard career guide! Ask about jobs, roles, or how to apply.",
+    "intent": "help"
+  },
+  {
+    "context": "remote jobs dikhao",
+    "response": "Great! Here are the available job listings.",
+    "intent": "job_search"
+  },
+  {
+    "context": "jobs for mechanical engineers",
+    "response": "I found several positions for you. Take a look!",
+    "intent": "job_search"
+  },
+  {
+    "context": "hey whats up",
+    "response": "Good to see you! How can I assist you today?",
+    "intent": "greeting"
+  },
+  {
+    "context": "jobs for bca",
+    "response": "I found several positions for you. Take a look!",
+    "intent": "job_search"
+  },
+  {
+    "context": "resume bhejana hai",
+    "response": "You can upload your resume during the job application process on our careers site.",
+    "intent": "resume"
+  },
+  {
+    "context": "jobs for freshers",
+    "response": "Here are jobs matching your experience level!",
+    "intent": "experience_filter"
+  },
+  {
+    "context": "who are you",
+    "response": "Think of me as your Mastercard career guide! Ask about jobs, roles, or how to apply.",
+    "intent": "help"
+  },
+  {
+    "context": "what roles do you have",
+    "response": "Great! Here are the available job listings.",
+    "intent": "job_search"
+  },
+  {
+    "context": "women empowerment programs",
+    "response": "We offer a collaborative work environment, hybrid work options, and great career growth opportunities.",
+    "intent": "company_culture"
+  },
+  {
+    "context": "write a poem",
+    "response": "I'm not able to help with that, but I can definitely help you find your dream job at Mastercard!",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "stuck in career",
+    "response": "Think of me as your Mastercard career guide! Ask about jobs, roles, or how to apply.",
+    "intent": "help"
+  },
+  {
+    "context": "hello start please",
+    "response": "Hey! Looking for a job or internship? I'm here to help!",
+    "intent": "greeting"
+  },
+  {
+    "context": "lucky number",
+    "response": "Hmm, that's outside my expertise! I can help with job searches, applications, and careers at Mastercard.",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "just completed btech",
+    "response": "Let me filter jobs based on your experience.",
+    "intent": "experience_filter"
+  },
+  {
+    "context": "tell me more",
+    "response": "Think of me as your Mastercard career guide! Ask about jobs, roles, or how to apply.",
+    "intent": "help"
+  },
+  {
+    "context": "management trainee",
+    "response": "Found some internship openings for you!",
+    "intent": "internship"
+  },
+  {
+    "context": "what can i do here",
+    "response": "I can help you find jobs, internships, guide you to apply, and answer career questions!",
+    "intent": "help"
+  },
+  {
+    "context": "how long does the application take",
+    "response": "The application process is simple — find a job, click apply, and submit your resume.",
+    "intent": "apply"
+  },
+  {
+    "context": "jobs in chennai",
+    "response": "Here are some job openings that match your search!",
+    "intent": "job_search"
+  },
+  {
+    "context": "hello good to connect again",
+    "response": "Hi there! How can I help you with your job search today?",
+    "intent": "greeting"
+  },
+  {
+    "context": "technical round hoga kya",
+    "response": "To apply, visit our job board and click 'Apply Now' on any role.",
+    "intent": "apply"
+  },
+  {
+    "context": "hiya",
+    "response": "Namaste! How can I help you explore careers at Mastercard?",
+    "intent": "greeting"
+  },
+  {
+    "context": "resume template chahiye",
+    "response": "Head to the job listing you want and click Apply — you'll find the resume upload option there.",
+    "intent": "resume"
+  },
+  {
+    "context": "resume upload failed",
+    "response": "Head to the job listing you want and click Apply — you'll find the resume upload option there.",
+    "intent": "resume"
+  },
+  {
+    "context": "support chahiye",
+    "response": "Think of me as your Mastercard career guide! Ask about jobs, roles, or how to apply.",
+    "intent": "help"
+  },
+  {
+    "context": "internship 2025",
+    "response": "Here are the internship opportunities we have available!",
+    "intent": "internship"
+  },
+  {
+    "context": "i have 12 years of experience",
+    "response": "Here are jobs matching your experience level!",
+    "intent": "experience_filter"
+  },
+  {
+    "context": "latest job postings",
+    "response": "Sure! Let me pull up the job listings for you.",
+    "intent": "job_search"
+  },
+  {
+    "context": "all openings please",
+    "response": "I found several positions for you. Take a look!",
+    "intent": "job_search"
+  },
+  {
+    "context": "guide kar do",
+    "response": "Sure! I can show you job listings, internships, help with applications, and tell you about our culture.",
+    "intent": "help"
+  },
+  {
+    "context": "what are my options",
+    "response": "Sure! I can show you job listings, internships, help with applications, and tell you about our culture.",
+    "intent": "help"
+  },
+  {
+    "context": "i need employment",
+    "response": "I found several positions for you. Take a look!",
+    "intent": "job_search"
+  },
+  {
+    "context": "cool",
+    "response": "Hmm, that's outside my expertise! I can help with job searches, applications, and careers at Mastercard.",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "resume reupload kar sakta hoon",
+    "response": "You can upload your resume during the job application process on our careers site.",
+    "intent": "resume"
+  },
+  {
+    "context": "does mastercard have good culture",
+    "response": "We offer a collaborative work environment, hybrid work options, and great career growth opportunities.",
+    "intent": "company_culture"
+  },
+  {
+    "context": "too many options",
+    "response": "I can help you find jobs, internships, guide you to apply, and answer career questions!",
+    "intent": "help"
+  },
+  {
+    "context": "what time is it",
+    "response": "Hmm, that's outside my expertise! I can help with job searches, applications, and careers at Mastercard.",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "job chahiye asap",
+    "response": "Sure! Let me pull up the job listings for you.",
+    "intent": "job_search"
+  },
+  {
+    "context": "where to upload cv",
+    "response": "You can upload your resume during the job application process on our careers site.",
+    "intent": "resume"
+  },
+  {
+    "context": "interview process kya hai",
+    "response": "Head over to our job board and click 'I'm Interested' on any role to begin.",
+    "intent": "apply"
+  },
+  {
+    "context": "internship ke liye kya chahiye",
+    "response": "Here are the internship opportunities we have available!",
+    "intent": "internship"
+  },
+  {
+    "context": "ats kya hota hai",
+    "response": "Head to the job listing you want and click Apply — you'll find the resume upload option there.",
+    "intent": "resume"
+  },
+  {
+    "context": "hello how have you been",
+    "response": "Hello! Welcome to Mastercard Careers. What can I help you with?",
+    "intent": "greeting"
+  },
+  {
+    "context": "show data analyst jobs",
+    "response": "Sure! Let me pull up the job listings for you.",
+    "intent": "job_search"
+  },
+  {
+    "context": "helpdesk",
+    "response": "I can help you find jobs, internships, guide you to apply, and answer career questions!",
+    "intent": "help"
+  },
+  {
+    "context": "senior data scientist jobs",
+    "response": "Found positions suited to your experience.",
+    "intent": "experience_filter"
+  },
+  {
+    "context": "leadership team kaisi hai",
+    "response": "Mastercard is known for its inclusive, innovative culture with strong work-life balance!",
+    "intent": "company_culture"
+  },
+  {
+    "context": "internship in tech",
+    "response": "Found some internship openings for you!",
+    "intent": "internship"
+  },
+  {
+    "context": "employee benefits kya hain",
+    "response": "We offer a collaborative work environment, hybrid work options, and great career growth opportunities.",
+    "intent": "company_culture"
+  },
+  {
+    "context": "what is it like to work at mastercard",
+    "response": "Mastercard is known for its inclusive, innovative culture with strong work-life balance!",
+    "intent": "company_culture"
+  },
+  {
+    "context": "total job openings",
+    "response": "Great! Here are the available job listings.",
+    "intent": "job_search"
+  },
+  {
+    "context": "decide kaise karun",
+    "response": "Sure! I can show you job listings, internships, help with applications, and tell you about our culture.",
+    "intent": "help"
+  },
+  {
+    "context": "director position",
+    "response": "Here are jobs matching your experience level!",
+    "intent": "experience_filter"
+  },
+  {
+    "context": "hi",
+    "response": "Hello! Welcome to Mastercard Careers. What can I help you with?",
+    "intent": "greeting"
+  },
+  {
+    "context": "bruh",
+    "response": "I'm specialized in Mastercard career queries only. Try asking about jobs or internships!",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "finance internship",
+    "response": "Great choice! Here are our current internship listings.",
+    "intent": "internship"
+  },
+  {
+    "context": "can i upload my cv",
+    "response": "Head to the job listing you want and click Apply — you'll find the resume upload option there.",
+    "intent": "resume"
+  },
+  {
+    "context": "xyz123",
+    "response": "I'm not able to help with that, but I can definitely help you find your dream job at Mastercard!",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "research internship",
+    "response": "Here are the internship opportunities we have available!",
+    "intent": "internship"
+  },
+  {
+    "context": "search something",
+    "response": "I'm specialized in Mastercard career queries only. Try asking about jobs or internships!",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "selection process kya hai",
+    "response": "To apply, visit our job board and click 'Apply Now' on any role.",
+    "intent": "apply"
+  },
+  {
+    "context": "explain yourself",
+    "response": "I can help you find jobs, internships, guide you to apply, and answer career questions!",
+    "intent": "help"
+  },
+  {
+    "context": "is mastercard inclusive",
+    "response": "Mastercard values diversity and inclusion. Employees enjoy flexible work, learning programs, and competitive benefits.",
+    "intent": "company_culture"
+  },
+  {
+    "context": "off campus internship",
+    "response": "Here are the internship opportunities we have available!",
+    "intent": "internship"
+  },
+  {
+    "context": "apply karne ke baad kya hoga",
+    "response": "To apply, visit our job board and click 'Apply Now' on any role.",
+    "intent": "apply"
+  },
+  {
+    "context": "good morning how are you",
+    "response": "Namaste! How can I help you explore careers at Mastercard?",
+    "intent": "greeting"
+  },
+  {
+    "context": "salary at mastercard",
+    "response": "Mastercard is known for its inclusive, innovative culture with strong work-life balance!",
+    "intent": "company_culture"
+  },
+  {
+    "context": "pata nahi kya karun",
+    "response": "Think of me as your Mastercard career guide! Ask about jobs, roles, or how to apply.",
+    "intent": "help"
+  },
+  {
+    "context": "mastercard ka office kaisa hai",
+    "response": "Mastercard values diversity and inclusion. Employees enjoy flexible work, learning programs, and competitive benefits.",
+    "intent": "company_culture"
+  },
+  {
+    "context": "resume format for experienced",
+    "response": "Head to the job listing you want and click Apply — you'll find the resume upload option there.",
+    "intent": "resume"
+  },
+  {
+    "context": "greetings",
+    "response": "Namaste! How can I help you explore careers at Mastercard?",
+    "intent": "greeting"
+  },
+  {
+    "context": "freelance jobs",
+    "response": "Here are some job openings that match your search!",
+    "intent": "job_search"
+  },
+  {
+    "context": "work life balance kaisa hai",
+    "response": "We offer a collaborative work environment, hybrid work options, and great career growth opportunities.",
+    "intent": "company_culture"
+  },
+  {
+    "context": "principal position",
+    "response": "Here are jobs matching your experience level!",
+    "intent": "experience_filter"
+  },
+  {
+    "context": "office environment",
+    "response": "Mastercard is known for its inclusive, innovative culture with strong work-life balance!",
+    "intent": "company_culture"
+  },
+  {
+    "context": "can you show me job listings",
+    "response": "I found several positions for you. Take a look!",
+    "intent": "job_search"
+  },
+  {
+    "context": "customer support",
+    "response": "Think of me as your Mastercard career guide! Ask about jobs, roles, or how to apply.",
+    "intent": "help"
+  },
+  {
+    "context": "helo",
+    "response": "Hey! Looking for a job or internship? I'm here to help!",
+    "intent": "greeting"
+  },
+  {
+    "context": "computer science internship",
+    "response": "Found some internship openings for you!",
+    "intent": "internship"
+  },
+  {
+    "context": "play music",
+    "response": "I'm specialized in Mastercard career queries only. Try asking about jobs or internships!",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "mujhe internship chahiye",
+    "response": "Great choice! Here are our current internship listings.",
+    "intent": "internship"
+  },
+  {
+    "context": "guide me",
+    "response": "Sure! I can show you job listings, internships, help with applications, and tell you about our culture.",
+    "intent": "help"
+  },
+  {
+    "context": "internship in noida",
+    "response": "Great choice! Here are our current internship listings.",
+    "intent": "internship"
+  },
+  {
+    "context": "fresher hoon",
+    "response": "Here are jobs matching your experience level!",
+    "intent": "experience_filter"
+  },
+  {
+    "context": "confirmation kab hoti hai",
+    "response": "We offer a collaborative work environment, hybrid work options, and great career growth opportunities.",
+    "intent": "company_culture"
+  },
+  {
+    "context": "hi need assistance",
+    "response": "Hello! Welcome to Mastercard Careers. What can I help you with?",
+    "intent": "greeting"
+  },
+  {
+    "context": "latest news",
+    "response": "I'm not able to help with that, but I can definitely help you find your dream job at Mastercard!",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "senior position",
+    "response": "Let me filter jobs based on your experience.",
+    "intent": "experience_filter"
+  },
+  {
+    "context": "bca internship",
+    "response": "Here are the internship opportunities we have available!",
+    "intent": "internship"
+  },
+  {
+    "context": "one page resume ya two page",
+    "response": "You can upload your resume during the job application process on our careers site.",
+    "intent": "resume"
+  },
+  {
+    "context": "what questions can i ask",
+    "response": "Think of me as your Mastercard career guide! Ask about jobs, roles, or how to apply.",
+    "intent": "help"
+  },
+  {
+    "context": "summer 2025 internship",
+    "response": "Found some internship openings for you!",
+    "intent": "internship"
+  },
+  {
+    "context": "what is the meaning of life",
+    "response": "I'm specialized in Mastercard career queries only. Try asking about jobs or internships!",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "hey good to see you",
+    "response": "Hi there! How can I help you with your job search today?",
+    "intent": "greeting"
+  },
+  {
+    "context": "can i update my resume later",
+    "response": "Head to the job listing you want and click Apply — you'll find the resume upload option there.",
+    "intent": "resume"
+  },
+  {
+    "context": "mujhe apply karna hai",
+    "response": "Head over to our job board and click 'I'm Interested' on any role to begin.",
+    "intent": "apply"
+  },
+  {
+    "context": "train ticket",
+    "response": "I'm specialized in Mastercard career queries only. Try asking about jobs or internships!",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "keyword optimization resume mein",
+    "response": "Head to the job listing you want and click Apply — you'll find the resume upload option there.",
+    "intent": "resume"
+  },
+  {
+    "context": "show accounting jobs",
+    "response": "Here are some job openings that match your search!",
+    "intent": "job_search"
+  },
+  {
+    "context": "manager position",
+    "response": "Let me filter jobs based on your experience.",
+    "intent": "experience_filter"
+  },
+  {
+    "context": "job chahiye urgent",
+    "response": "I found several positions for you. Take a look!",
+    "intent": "job_search"
+  },
+  {
+    "context": "permanent jobs",
+    "response": "Here are some job openings that match your search!",
+    "intent": "job_search"
+  },
+  {
+    "context": "first job",
+    "response": "Here are jobs matching your experience level!",
+    "intent": "experience_filter"
+  },
+  {
+    "context": "instructions chahiye",
+    "response": "Think of me as your Mastercard career guide! Ask about jobs, roles, or how to apply.",
+    "intent": "help"
+  },
+  {
+    "context": "hi are you there",
+    "response": "Hello! Welcome to Mastercard Careers. What can I help you with?",
+    "intent": "greeting"
+  },
+  {
+    "context": "tutorial do",
+    "response": "I can help you find jobs, internships, guide you to apply, and answer career questions!",
+    "intent": "help"
+  },
+  {
+    "context": "job dhundo",
+    "response": "Sure! Let me pull up the job listings for you.",
+    "intent": "job_search"
+  },
+  {
+    "context": "mastercard salary kitni hoti hai",
+    "response": "Mastercard is known for its inclusive, innovative culture with strong work-life balance!",
+    "intent": "company_culture"
+  },
+  {
+    "context": "hello namaskar",
+    "response": "Good to see you! How can I assist you today?",
+    "intent": "greeting"
+  },
+  {
+    "context": "graduate trainee",
+    "response": "Here are the internship opportunities we have available!",
+    "intent": "internship"
+  },
+  {
+    "context": "bata do",
+    "response": "I can help you find jobs, internships, guide you to apply, and answer career questions!",
+    "intent": "help"
+  },
+  {
+    "context": "how big can my resume be",
+    "response": "Head to the job listing you want and click Apply — you'll find the resume upload option there.",
+    "intent": "resume"
+  },
+  {
+    "context": "best phone to buy",
+    "response": "I'm not able to help with that, but I can definitely help you find your dream job at Mastercard!",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "resume edit karna hai",
+    "response": "You can upload your resume during the job application process on our careers site.",
+    "intent": "resume"
+  },
+  {
+    "context": "mastercard internship program",
+    "response": "Great choice! Here are our current internship listings.",
+    "intent": "internship"
+  },
+  {
+    "context": "corporate jobs",
+    "response": "Sure! Let me pull up the job listings for you.",
+    "intent": "job_search"
+  },
+  {
+    "context": "show ml jobs",
+    "response": "Great! Here are the available job listings.",
+    "intent": "job_search"
+  },
+  {
+    "context": "1 year internship",
+    "response": "Found some internship openings for you!",
+    "intent": "internship"
+  },
+  {
+    "context": "career growth at mastercard",
+    "response": "Mastercard is known for its inclusive, innovative culture with strong work-life balance!",
+    "intent": "company_culture"
+  },
+  {
+    "context": "i need help",
+    "response": "Sure! I can show you job listings, internships, help with applications, and tell you about our culture.",
+    "intent": "help"
+  },
+  {
+    "context": "jobs near me",
+    "response": "Here are some job openings that match your search!",
+    "intent": "job_search"
+  },
+  {
+    "context": "solve this math problem",
+    "response": "I'm specialized in Mastercard career queries only. Try asking about jobs or internships!",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "how do i attach my resume",
+    "response": "We accept PDF and Word document formats for resumes.",
+    "intent": "resume"
+  },
+  {
+    "context": "show cybersecurity jobs",
+    "response": "Here are some job openings that match your search!",
+    "intent": "job_search"
+  },
+  {
+    "context": "i have 3 years of experience",
+    "response": "Here are jobs matching your experience level!",
+    "intent": "experience_filter"
+  },
+  {
+    "context": "hello career bot",
+    "response": "Hello! Welcome to Mastercard Careers. What can I help you with?",
+    "intent": "greeting"
+  },
+  {
+    "context": "fine",
+    "response": "I'm not able to help with that, but I can definitely help you find your dream job at Mastercard!",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "hi what is new",
+    "response": "Good to see you! How can I assist you today?",
+    "intent": "greeting"
+  },
+  {
+    "context": "variable pay kya hota hai",
+    "response": "Mastercard is known for its inclusive, innovative culture with strong work-life balance!",
+    "intent": "company_culture"
+  },
+  {
+    "context": "jobs in noida",
+    "response": "Great! Here are the available job listings.",
+    "intent": "job_search"
+  },
+  {
+    "context": "resume sample dikhao",
+    "response": "You can upload your resume during the job application process on our careers site.",
+    "intent": "resume"
+  },
+  {
+    "context": "confused about job options",
+    "response": "Think of me as your Mastercard career guide! Ask about jobs, roles, or how to apply.",
+    "intent": "help"
+  },
+  {
+    "context": "what can you do",
+    "response": "I can help you find jobs, internships, guide you to apply, and answer career questions!",
+    "intent": "help"
+  },
+  {
+    "context": "c level jobs",
+    "response": "Here are jobs matching your experience level!",
+    "intent": "experience_filter"
+  },
+  {
+    "context": "what jobs are available",
+    "response": "Great! Here are the available job listings.",
+    "intent": "job_search"
+  },
+  {
+    "context": "multiple resumes rakhne chahiye kya",
+    "response": "Head to the job listing you want and click Apply — you'll find the resume upload option there.",
+    "intent": "resume"
+  },
+  {
+    "context": "btech internship",
+    "response": "Great choice! Here are our current internship listings.",
+    "intent": "internship"
+  },
+  {
+    "context": "team size kaisi hoti hai",
+    "response": "Mastercard values diversity and inclusion. Employees enjoy flexible work, learning programs, and competitive benefits.",
+    "intent": "company_culture"
+  },
+  {
+    "context": "chatgpt vs you",
+    "response": "Hmm, that's outside my expertise! I can help with job searches, applications, and careers at Mastercard.",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "is it good to work here",
+    "response": "We offer a collaborative work environment, hybrid work options, and great career growth opportunities.",
+    "intent": "company_culture"
+  },
+  {
+    "context": "final year internship",
+    "response": "Found some internship openings for you!",
+    "intent": "internship"
+  },
+  {
+    "context": "internship in gurgaon",
+    "response": "Here are the internship opportunities we have available!",
+    "intent": "internship"
+  },
+  {
+    "context": "hello how is your evening",
+    "response": "Hey! Looking for a job or internship? I'm here to help!",
+    "intent": "greeting"
+  },
+  {
+    "context": "global exposure milta hai kya",
+    "response": "We offer a collaborative work environment, hybrid work options, and great career growth opportunities.",
+    "intent": "company_culture"
+  },
+  {
+    "context": "how to lose weight",
+    "response": "I'm not able to help with that, but I can definitely help you find your dream job at Mastercard!",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "hi long time no see",
+    "response": "Hey! Looking for a job or internship? I'm here to help!",
+    "intent": "greeting"
+  },
+  {
+    "context": "internship in hyderabad",
+    "response": "Found some internship openings for you!",
+    "intent": "internship"
+  },
+  {
+    "context": "online internship",
+    "response": "Found some internship openings for you!",
+    "intent": "internship"
+  },
+  {
+    "context": "career mentor chahiye",
+    "response": "Sure! I can show you job listings, internships, help with applications, and tell you about our culture.",
+    "intent": "help"
+  },
+  {
+    "context": "i want to apply",
+    "response": "Head over to our job board and click 'I'm Interested' on any role to begin.",
+    "intent": "apply"
+  },
+  {
+    "context": "file format not supported",
+    "response": "Head to the job listing you want and click Apply — you'll find the resume upload option there.",
+    "intent": "resume"
+  },
+  {
+    "context": "evening",
+    "response": "Hello! Welcome to Mastercard Careers. What can I help you with?",
+    "intent": "greeting"
+  },
+  {
+    "context": "who is elon musk",
+    "response": "I'm not able to help with that, but I can definitely help you find your dream job at Mastercard!",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "i dont know what to do",
+    "response": "I can help you find jobs, internships, guide you to apply, and answer career questions!",
+    "intent": "help"
+  },
+  {
+    "context": "what is available right now",
+    "response": "Here are some job openings that match your search!",
+    "intent": "job_search"
+  },
+  {
+    "context": "jobs for 5 to 8 years experience",
+    "response": "Here are jobs matching your experience level!",
+    "intent": "experience_filter"
+  },
+  {
+    "context": "walk in interview hai kya",
+    "response": "To apply, visit our job board and click 'Apply Now' on any role.",
+    "intent": "apply"
+  },
+  {
+    "context": "team outings hote hain kya",
+    "response": "We offer a collaborative work environment, hybrid work options, and great career growth opportunities.",
+    "intent": "company_culture"
+  },
+  {
+    "context": "who won ipl",
+    "response": "I'm specialized in Mastercard career queries only. Try asking about jobs or internships!",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "apprenticeship",
+    "response": "Here are the internship opportunities we have available!",
+    "intent": "internship"
+  },
+  {
+    "context": "assistance chahiye",
+    "response": "Sure! I can show you job listings, internships, help with applications, and tell you about our culture.",
+    "intent": "help"
+  },
+  {
+    "context": "changing field",
+    "response": "Here are jobs matching your experience level!",
+    "intent": "experience_filter"
+  },
+  {
+    "context": "explain please",
+    "response": "Sure! I can show you job listings, internships, help with applications, and tell you about our culture.",
+    "intent": "help"
+  },
+  {
+    "context": "executive roles",
+    "response": "Found positions suited to your experience.",
+    "intent": "experience_filter"
+  },
+  {
+    "context": "cover letter zaruri hai kya",
+    "response": "Head to the job listing you want and click Apply — you'll find the resume upload option there.",
+    "intent": "resume"
+  },
+  {
+    "context": "2 years experience",
+    "response": "Here are jobs matching your experience level!",
+    "intent": "experience_filter"
+  },
+  {
+    "context": "howdy",
+    "response": "Good to see you! How can I assist you today?",
+    "intent": "greeting"
+  },
+  {
+    "context": "increment policy kya hai",
+    "response": "Mastercard values diversity and inclusion. Employees enjoy flexible work, learning programs, and competitive benefits.",
+    "intent": "company_culture"
+  },
+  {
+    "context": "kya coding test hoga",
+    "response": "Head over to our job board and click 'I'm Interested' on any role to begin.",
+    "intent": "apply"
+  },
+  {
+    "context": "vision kya hai",
+    "response": "Mastercard is known for its inclusive, innovative culture with strong work-life balance!",
+    "intent": "company_culture"
+  },
+  {
+    "context": "show me memes",
+    "response": "I'm specialized in Mastercard career queries only. Try asking about jobs or internships!",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "group discussion hoga kya",
+    "response": "Head over to our job board and click 'I'm Interested' on any role to begin.",
+    "intent": "apply"
+  },
+  {
+    "context": "industrial training",
+    "response": "Found some internship openings for you!",
+    "intent": "internship"
+  },
+  {
+    "context": "aptitude test hoga kya",
+    "response": "To apply, visit our job board and click 'Apply Now' on any role.",
+    "intent": "apply"
+  },
+  {
+    "context": "confirmation email milega kya",
+    "response": "Head over to our job board and click 'I'm Interested' on any role to begin.",
+    "intent": "apply"
+  },
+  {
+    "context": "who made you",
+    "response": "I'm specialized in Mastercard career queries only. Try asking about jobs or internships!",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "show me tech jobs",
+    "response": "Here are some job openings that match your search!",
+    "intent": "job_search"
+  },
+  {
+    "context": "internship for 2nd year student",
+    "response": "Great choice! Here are our current internship listings.",
+    "intent": "internship"
+  },
+  {
+    "context": "hello good to see you",
+    "response": "Hey! Looking for a job or internship? I'm here to help!",
+    "intent": "greeting"
+  },
+  {
+    "context": "insurance coverage",
+    "response": "Mastercard values diversity and inclusion. Employees enjoy flexible work, learning programs, and competitive benefits.",
+    "intent": "company_culture"
+  },
+  {
+    "context": "hackerrank test hai kya",
+    "response": "To apply, visit our job board and click 'Apply Now' on any role.",
+    "intent": "apply"
+  },
+  {
+    "context": "nice",
+    "response": "I'm not able to help with that, but I can definitely help you find your dream job at Mastercard!",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "cloud internship",
+    "response": "Here are the internship opportunities we have available!",
+    "intent": "internship"
+  },
+  {
+    "context": "joining date kab hogi",
+    "response": "To apply, visit our job board and click 'Apply Now' on any role.",
+    "intent": "apply"
+  },
+  {
+    "context": "summer internship",
+    "response": "Great choice! Here are our current internship listings.",
+    "intent": "internship"
+  },
+  {
+    "context": "hello darkness my old friend",
+    "response": "I'm specialized in Mastercard career queries only. Try asking about jobs or internships!",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "professional resume kaise banayein",
+    "response": "We accept PDF and Word document formats for resumes.",
+    "intent": "resume"
+  },
+  {
+    "context": "show devops jobs",
+    "response": "Sure! Let me pull up the job listings for you.",
+    "intent": "job_search"
+  },
+  {
+    "context": "kaise ho",
+    "response": "Hi there! How can I help you with your job search today?",
+    "intent": "greeting"
+  },
+  {
+    "context": "apply kar sakta hoon kya",
+    "response": "Head over to our job board and click 'I'm Interested' on any role to begin.",
+    "intent": "apply"
+  },
+  {
+    "context": "show all internship programs",
+    "response": "Found some internship openings for you!",
+    "intent": "internship"
+  },
+  {
+    "context": "dinosaurs",
+    "response": "I'm not able to help with that, but I can definitely help you find your dream job at Mastercard!",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "offer letter kab milega",
+    "response": "The application process is simple — find a job, click apply, and submit your resume.",
+    "intent": "apply"
+  },
+  {
+    "context": "application status kaise check karu",
+    "response": "To apply, visit our job board and click 'Apply Now' on any role.",
+    "intent": "apply"
+  },
+  {
+    "context": "contract jobs",
+    "response": "Great! Here are the available job listings.",
+    "intent": "job_search"
+  },
+  {
+    "context": "hello",
+    "response": "Good to see you! How can I assist you today?",
+    "intent": "greeting"
+  },
+  {
+    "context": "career path suggest karo",
+    "response": "Think of me as your Mastercard career guide! Ask about jobs, roles, or how to apply.",
+    "intent": "help"
+  },
+  {
+    "context": "resume already prepared hai",
+    "response": "Head to the job listing you want and click Apply — you'll find the resume upload option there.",
+    "intent": "resume"
+  },
+  {
+    "context": "temporary jobs",
+    "response": "Sure! Let me pull up the job listings for you.",
+    "intent": "job_search"
+  },
+  {
+    "context": "hey first time here",
+    "response": "Namaste! How can I help you explore careers at Mastercard?",
+    "intent": "greeting"
+  },
+  {
+    "context": "job apply karne ka tarika batao",
+    "response": "The application process is simple — find a job, click apply, and submit your resume.",
+    "intent": "apply"
+  },
+  {
+    "context": "engineering internship",
+    "response": "Great choice! Here are our current internship listings.",
+    "intent": "internship"
+  },
+  {
+    "context": "astrology",
+    "response": "Hmm, that's outside my expertise! I can help with job searches, applications, and careers at Mastercard.",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "probation period kitna hota hai",
+    "response": "Mastercard is known for its inclusive, innovative culture with strong work-life balance!",
+    "intent": "company_culture"
+  },
+  {
+    "context": "step by step apply process",
+    "response": "To apply, visit our job board and click 'Apply Now' on any role.",
+    "intent": "apply"
+  },
+  {
+    "context": "cricket score",
+    "response": "Hmm, that's outside my expertise! I can help with job searches, applications, and careers at Mastercard.",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "internship for btech students",
+    "response": "Found some internship openings for you!",
+    "intent": "internship"
+  },
+  {
+    "context": "principal level jobs",
+    "response": "Let me filter jobs based on your experience.",
+    "intent": "experience_filter"
+  },
+  {
+    "context": "dress code kya hai",
+    "response": "We offer a collaborative work environment, hybrid work options, and great career growth opportunities.",
+    "intent": "company_culture"
+  },
+  {
+    "context": "business internship",
+    "response": "Found some internship openings for you!",
+    "intent": "internship"
+  },
+  {
+    "context": "assist me",
+    "response": "Think of me as your Mastercard career guide! Ask about jobs, roles, or how to apply.",
+    "intent": "help"
+  },
+  {
+    "context": "what perks do employees get",
+    "response": "We offer a collaborative work environment, hybrid work options, and great career growth opportunities.",
+    "intent": "company_culture"
+  },
+  {
+    "context": "i have 20 years of experience",
+    "response": "Let me filter jobs based on your experience.",
+    "intent": "experience_filter"
+  },
+  {
+    "context": "maternity leave policy",
+    "response": "We offer a collaborative work environment, hybrid work options, and great career growth opportunities.",
+    "intent": "company_culture"
+  },
+  {
+    "context": "cancel application",
+    "response": "Head over to our job board and click 'I'm Interested' on any role to begin.",
+    "intent": "apply"
+  },
+  {
+    "context": "hi there",
+    "response": "Namaste! How can I help you explore careers at Mastercard?",
+    "intent": "greeting"
+  },
+  {
+    "context": "show me job openings",
+    "response": "I found several positions for you. Take a look!",
+    "intent": "job_search"
+  },
+  {
+    "context": "naukri chahiye",
+    "response": "Sure! Let me pull up the job listings for you.",
+    "intent": "job_search"
+  },
+  {
+    "context": "hello returning user",
+    "response": "Good to see you! How can I assist you today?",
+    "intent": "greeting"
+  },
+  {
+    "context": "find me a job",
+    "response": "Sure! Let me pull up the job listings for you.",
+    "intent": "job_search"
+  },
+  {
+    "context": "samjhao mujhe",
+    "response": "Think of me as your Mastercard career guide! Ask about jobs, roles, or how to apply.",
+    "intent": "help"
+  },
+  {
+    "context": "xd",
+    "response": "I'm not able to help with that, but I can definitely help you find your dream job at Mastercard!",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "engineering jobs dikhao",
+    "response": "Great! Here are the available job listings.",
+    "intent": "job_search"
+  },
+  {
+    "context": "prioritize kaise karun",
+    "response": "I can help you find jobs, internships, guide you to apply, and answer career questions!",
+    "intent": "help"
+  },
+  {
+    "context": "application dena hai",
+    "response": "Head over to our job board and click 'I'm Interested' on any role to begin.",
+    "intent": "apply"
+  },
+  {
+    "context": "good day",
+    "response": "Hi there! How can I help you with your job search today?",
+    "intent": "greeting"
+  },
+  {
+    "context": "trainee program",
+    "response": "Here are the internship opportunities we have available!",
+    "intent": "internship"
+  },
+  {
+    "context": "what are you",
+    "response": "I can help you find jobs, internships, guide you to apply, and answer career questions!",
+    "intent": "help"
+  },
+  {
+    "context": "pehli naukri chahiye",
+    "response": "Let me filter jobs based on your experience.",
+    "intent": "experience_filter"
+  },
+  {
+    "context": "hello what is up",
+    "response": "Namaste! How can I help you explore careers at Mastercard?",
+    "intent": "greeting"
+  },
+  {
+    "context": "hybrid work available hai",
+    "response": "Mastercard values diversity and inclusion. Employees enjoy flexible work, learning programs, and competitive benefits.",
+    "intent": "company_culture"
+  },
+  {
+    "context": "tell me your features",
+    "response": "Think of me as your Mastercard career guide! Ask about jobs, roles, or how to apply.",
+    "intent": "help"
+  },
+  {
+    "context": "internship openings list",
+    "response": "Great choice! Here are our current internship listings.",
+    "intent": "internship"
+  },
+  {
+    "context": "show ai jobs",
+    "response": "Great! Here are the available job listings.",
+    "intent": "job_search"
+  },
+  {
+    "context": "idk",
+    "response": "I'm specialized in Mastercard career queries only. Try asking about jobs or internships!",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "hybrid schedule kya hai",
+    "response": "Mastercard is known for its inclusive, innovative culture with strong work-life balance!",
+    "intent": "company_culture"
+  },
+  {
+    "context": "hello there what is up",
+    "response": "Hi there! How can I help you with your job search today?",
+    "intent": "greeting"
+  },
+  {
+    "context": "resume banana chahta hoon",
+    "response": "Head to the job listing you want and click Apply — you'll find the resume upload option there.",
+    "intent": "resume"
+  },
+  {
+    "context": "i am looking for work",
+    "response": "Here are some job openings that match your search!",
+    "intent": "job_search"
+  },
+  {
+    "context": "3 month internship",
+    "response": "Here are the internship opportunities we have available!",
+    "intent": "internship"
+  },
+  {
+    "context": "job chahiye mujhe",
+    "response": "Great! Here are the available job listings.",
+    "intent": "job_search"
+  },
+  {
+    "context": "annual leave policy",
+    "response": "Mastercard is known for its inclusive, innovative culture with strong work-life balance!",
+    "intent": "company_culture"
+  },
+  {
+    "context": "diet plan",
+    "response": "Hmm, that's outside my expertise! I can help with job searches, applications, and careers at Mastercard.",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "ctc kya hota hai mastercard mein",
+    "response": "We offer a collaborative work environment, hybrid work options, and great career growth opportunities.",
+    "intent": "company_culture"
+  },
+  {
+    "context": "internship ke baare mein batao",
+    "response": "Found some internship openings for you!",
+    "intent": "internship"
+  },
+  {
+    "context": "ats friendly resume kaise banaye",
+    "response": "You can upload your resume during the job application process on our careers site.",
+    "intent": "resume"
+  },
+  {
+    "context": "please help",
+    "response": "Sure! I can show you job listings, internships, help with applications, and tell you about our culture.",
+    "intent": "help"
+  },
+  {
+    "context": "koi job hai kya",
+    "response": "Sure! Let me pull up the job listings for you.",
+    "intent": "job_search"
+  },
+  {
+    "context": "help me with resume",
+    "response": "You can upload your resume during the job application process on our careers site.",
+    "intent": "resume"
+  },
+  {
+    "context": "tum kya kar sakte ho",
+    "response": "I can help you find jobs, internships, guide you to apply, and answer career questions!",
+    "intent": "help"
+  },
+  {
+    "context": "jobs for computer science",
+    "response": "Here are some job openings that match your search!",
+    "intent": "job_search"
+  },
+  {
+    "context": "cv upload kaise karte hain",
+    "response": "We accept PDF and Word document formats for resumes.",
+    "intent": "resume"
+  },
+  {
+    "context": "senior analyst jobs",
+    "response": "Here are jobs matching your experience level!",
+    "intent": "experience_filter"
+  },
+  {
+    "context": "reapply kar sakta hoon",
+    "response": "Head over to our job board and click 'I'm Interested' on any role to begin.",
+    "intent": "apply"
+  },
+  {
+    "context": "bot kya karta hai",
+    "response": "I can help you find jobs, internships, guide you to apply, and answer career questions!",
+    "intent": "help"
+  },
+  {
+    "context": "internship for freshers",
+    "response": "Here are the internship opportunities we have available!",
+    "intent": "internship"
+  },
+  {
+    "context": "hey i need help",
+    "response": "Hey! Looking for a job or internship? I'm here to help!",
+    "intent": "greeting"
+  },
+  {
+    "context": "portfolio kaise banayein",
+    "response": "You can upload your resume during the job application process on our careers site.",
+    "intent": "resume"
+  },
+  {
+    "context": "show me jobs",
+    "response": "I found several positions for you. Take a look!",
+    "intent": "job_search"
+  },
+  {
+    "context": "tell me a joke",
+    "response": "I'm not able to help with that, but I can definitely help you find your dream job at Mastercard!",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "how to cook pasta",
+    "response": "Hmm, that's outside my expertise! I can help with job searches, applications, and careers at Mastercard.",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "compare yourself to chatgpt",
+    "response": "I'm not able to help with that, but I can definitely help you find your dream job at Mastercard!",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "product internship",
+    "response": "Found some internship openings for you!",
+    "intent": "internship"
+  },
+  {
+    "context": "resume upload karna hai",
+    "response": "You can upload your resume during the job application process on our careers site.",
+    "intent": "resume"
+  },
+  {
+    "context": "translate this to french",
+    "response": "I'm not able to help with that, but I can definitely help you find your dream job at Mastercard!",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "how to check if application was received",
+    "response": "Head over to our job board and click 'I'm Interested' on any role to begin.",
+    "intent": "apply"
+  },
+  {
+    "context": "short term internship",
+    "response": "Found some internship openings for you!",
+    "intent": "internship"
+  },
+  {
+    "context": "startup jobs",
+    "response": "Sure! Let me pull up the job listings for you.",
+    "intent": "job_search"
+  },
+  {
+    "context": "how many jobs are there",
+    "response": "Here are some job openings that match your search!",
+    "intent": "job_search"
+  },
+  {
+    "context": "2 month internship",
+    "response": "Here are the internship opportunities we have available!",
+    "intent": "internship"
+  },
+  {
+    "context": "hello shall we begin",
+    "response": "Hello! Welcome to Mastercard Careers. What can I help you with?",
+    "intent": "greeting"
+  },
+  {
+    "context": "mid level position",
+    "response": "Here are jobs matching your experience level!",
+    "intent": "experience_filter"
+  },
+  {
+    "context": "what is the capital of france",
+    "response": "Hmm, that's outside my expertise! I can help with job searches, applications, and careers at Mastercard.",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "private jobs",
+    "response": "Great! Here are the available job listings.",
+    "intent": "job_search"
+  },
+  {
+    "context": "i have 7 years experience",
+    "response": "Let me filter jobs based on your experience.",
+    "intent": "experience_filter"
+  },
+  {
+    "context": "long term internship",
+    "response": "Here are the internship opportunities we have available!",
+    "intent": "internship"
+  },
+  {
+    "context": "looking for first job",
+    "response": "Found positions suited to your experience.",
+    "intent": "experience_filter"
+  },
+  {
+    "context": "erg kya hain",
+    "response": "Mastercard is known for its inclusive, innovative culture with strong work-life balance!",
+    "intent": "company_culture"
+  },
+  {
+    "context": "good evening what can you do",
+    "response": "Good to see you! How can I assist you today?",
+    "intent": "greeting"
+  },
+  {
+    "context": "show finance jobs",
+    "response": "Great! Here are the available job listings.",
+    "intent": "job_search"
+  },
+  {
+    "context": "job list dikhao",
+    "response": "Here are some job openings that match your search!",
+    "intent": "job_search"
+  },
+  {
+    "context": "company culture kaisi hai",
+    "response": "Mastercard values diversity and inclusion. Employees enjoy flexible work, learning programs, and competitive benefits.",
+    "intent": "company_culture"
+  },
+  {
+    "context": "koi naukri hai",
+    "response": "Great! Here are the available job listings.",
+    "intent": "job_search"
+  },
+  {
+    "context": "international opportunities",
+    "response": "Mastercard is known for its inclusive, innovative culture with strong work-life balance!",
+    "intent": "company_culture"
+  },
+  {
+    "context": "mera 5 saal ka experience hai",
+    "response": "Here are jobs matching your experience level!",
+    "intent": "experience_filter"
+  },
+  {
+    "context": "how does this chatbot work",
+    "response": "I can help you find jobs, internships, guide you to apply, and answer career questions!",
+    "intent": "help"
+  },
+  {
+    "context": "movie recommendations",
+    "response": "I'm not able to help with that, but I can definitely help you find your dream job at Mastercard!",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "hmm",
+    "response": "I'm specialized in Mastercard career queries only. Try asking about jobs or internships!",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "fresh graduate jobs",
+    "response": "Found positions suited to your experience.",
+    "intent": "experience_filter"
+  },
+  {
+    "context": "mid level jobs",
+    "response": "Found positions suited to your experience.",
+    "intent": "experience_filter"
+  },
+  {
+    "context": "hey good morning",
+    "response": "Hey! Looking for a job or internship? I'm here to help!",
+    "intent": "greeting"
+  },
+  {
+    "context": "great",
+    "response": "I'm specialized in Mastercard career queries only. Try asking about jobs or internships!",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "resume file size limit",
+    "response": "You can upload your resume during the job application process on our careers site.",
+    "intent": "resume"
+  },
+  {
+    "context": "experienced candidate hoon",
+    "response": "Found positions suited to your experience.",
+    "intent": "experience_filter"
+  },
+  {
+    "context": "please assist me",
+    "response": "I can help you find jobs, internships, guide you to apply, and answer career questions!",
+    "intent": "help"
+  },
+  {
+    "context": "how to make a good resume",
+    "response": "You can upload your resume during the job application process on our careers site.",
+    "intent": "resume"
+  },
+  {
+    "context": "k",
+    "response": "I'm not able to help with that, but I can definitely help you find your dream job at Mastercard!",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "jobs in gurgaon",
+    "response": "Great! Here are the available job listings.",
+    "intent": "job_search"
+  },
+  {
+    "context": "application edit karna hai",
+    "response": "To apply, visit our job board and click 'Apply Now' on any role.",
+    "intent": "apply"
+  },
+  {
+    "context": "age of universe",
+    "response": "I'm not able to help with that, but I can definitely help you find your dream job at Mastercard!",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "mujhe guide karo",
+    "response": "Sure! I can show you job listings, internships, help with applications, and tell you about our culture.",
+    "intent": "help"
+  },
+  {
+    "context": "i want a job",
+    "response": "I found several positions for you. Take a look!",
+    "intent": "job_search"
+  },
+  {
+    "context": "hybrid internship",
+    "response": "Found some internship openings for you!",
+    "intent": "internship"
+  },
+  {
+    "context": "resume rejected kyu hota hai",
+    "response": "We accept PDF and Word document formats for resumes.",
+    "intent": "resume"
+  },
+  {
+    "context": "education section kaise fill karein",
+    "response": "You can upload your resume during the job application process on our careers site.",
+    "intent": "resume"
+  },
+  {
+    "context": "show me everything",
+    "response": "I found several positions for you. Take a look!",
+    "intent": "job_search"
+  },
+  {
+    "context": "write code for me",
+    "response": "Hmm, that's outside my expertise! I can help with job searches, applications, and careers at Mastercard.",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "direct jobs",
+    "response": "Here are some job openings that match your search!",
+    "intent": "job_search"
+  },
+  {
+    "context": "elaborate please",
+    "response": "Sure! I can show you job listings, internships, help with applications, and tell you about our culture.",
+    "intent": "help"
+  },
+  {
+    "context": "government jobs",
+    "response": "Sure! Let me pull up the job listings for you.",
+    "intent": "job_search"
+  },
+  {
+    "context": "hii",
+    "response": "Namaste! How can I help you explore careers at Mastercard?",
+    "intent": "greeting"
+  },
+  {
+    "context": "hi nice to meet you",
+    "response": "Good to see you! How can I assist you today?",
+    "intent": "greeting"
+  },
+  {
+    "context": "company values kya hain",
+    "response": "We offer a collaborative work environment, hybrid work options, and great career growth opportunities.",
+    "intent": "company_culture"
+  },
+  {
+    "context": "application withdraw karna hai",
+    "response": "To apply, visit our job board and click 'Apply Now' on any role.",
+    "intent": "apply"
+  },
+  {
+    "context": "i just graduated what jobs suit me",
+    "response": "Found positions suited to your experience.",
+    "intent": "experience_filter"
+  },
+  {
+    "context": "where is the resume section",
+    "response": "We accept PDF and Word document formats for resumes.",
+    "intent": "resume"
+  },
+  {
+    "context": "skills improve karne chahiye",
+    "response": "Sure! I can show you job listings, internships, help with applications, and tell you about our culture.",
+    "intent": "help"
+  },
+  {
+    "context": "i have 6 years of experience",
+    "response": "Found positions suited to your experience.",
+    "intent": "experience_filter"
+  },
+  {
+    "context": "machine learning jobs",
+    "response": "Here are some job openings that match your search!",
+    "intent": "job_search"
+  },
+  {
+    "context": "resume tips denge",
+    "response": "We accept PDF and Word document formats for resumes.",
+    "intent": "resume"
+  },
+  {
+    "context": "good afternoon how can you help",
+    "response": "Hey! Looking for a job or internship? I'm here to help!",
+    "intent": "greeting"
+  },
+  {
+    "context": "book a cab",
+    "response": "I'm specialized in Mastercard career queries only. Try asking about jobs or internships!",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "nayi job chahiye",
+    "response": "Found positions suited to your experience.",
+    "intent": "experience_filter"
+  },
+  {
+    "context": "work experience kaise likhein",
+    "response": "You can upload your resume during the job application process on our careers site.",
+    "intent": "resume"
+  },
+  {
+    "context": "resume improvement tips",
+    "response": "You can upload your resume during the job application process on our careers site.",
+    "intent": "resume"
+  },
+  {
+    "context": "lost hoon",
+    "response": "I can help you find jobs, internships, guide you to apply, and answer career questions!",
+    "intent": "help"
+  },
+  {
+    "context": "stock price of apple",
+    "response": "I'm specialized in Mastercard career queries only. Try asking about jobs or internships!",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "vp position",
+    "response": "Here are jobs matching your experience level!",
+    "intent": "experience_filter"
+  },
+  {
+    "context": "are you human",
+    "response": "Hmm, that's outside my expertise! I can help with job searches, applications, and careers at Mastercard.",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "hey",
+    "response": "Namaste! How can I help you explore careers at Mastercard?",
+    "intent": "greeting"
+  },
+  {
+    "context": "any internship available",
+    "response": "Here are the internship opportunities we have available!",
+    "intent": "internship"
+  },
+  {
+    "context": "jobs for 10 plus years",
+    "response": "Here are jobs matching your experience level!",
+    "intent": "experience_filter"
+  },
+  {
+    "context": "hey lets go",
+    "response": "Hi there! How can I help you with your job search today?",
+    "intent": "greeting"
+  },
+  {
+    "context": "show me all current openings",
+    "response": "Great! Here are the available job listings.",
+    "intent": "job_search"
+  },
+  {
+    "context": "remote internship",
+    "response": "Great choice! Here are our current internship listings.",
+    "intent": "internship"
+  },
+  {
+    "context": "jobs for btech",
+    "response": "Great! Here are the available job listings.",
+    "intent": "job_search"
+  },
+  {
+    "context": "show cloud jobs",
+    "response": "Sure! Let me pull up the job listings for you.",
+    "intent": "job_search"
+  },
+  {
+    "context": "how to join mastercard",
+    "response": "Head over to our job board and click 'I'm Interested' on any role to begin.",
+    "intent": "apply"
+  },
+  {
+    "context": "ppo internship",
+    "response": "Great choice! Here are our current internship listings.",
+    "intent": "internship"
+  },
+  {
+    "context": "mastercard me kaam kaisa hota hai",
+    "response": "Mastercard values diversity and inclusion. Employees enjoy flexible work, learning programs, and competitive benefits.",
+    "intent": "company_culture"
+  },
+  {
+    "context": "what should my resume include",
+    "response": "Head to the job listing you want and click Apply — you'll find the resume upload option there.",
+    "intent": "resume"
+  },
+  {
+    "context": "diversity at mastercard",
+    "response": "Mastercard values diversity and inclusion. Employees enjoy flexible work, learning programs, and competitive benefits.",
+    "intent": "company_culture"
+  },
+  {
+    "context": "hi there bot",
+    "response": "Hey! Looking for a job or internship? I'm here to help!",
+    "intent": "greeting"
+  },
+  {
+    "context": "fun at work",
+    "response": "We offer a collaborative work environment, hybrid work options, and great career growth opportunities.",
+    "intent": "company_culture"
+  },
+  {
+    "context": "i have 8 years of experience",
+    "response": "Here are jobs matching your experience level!",
+    "intent": "experience_filter"
+  },
+  {
+    "context": "career change karna chahta hoon",
+    "response": "Found positions suited to your experience.",
+    "intent": "experience_filter"
+  },
+  {
+    "context": "international transfer possible hai",
+    "response": "Mastercard values diversity and inclusion. Employees enjoy flexible work, learning programs, and competitive benefits.",
+    "intent": "company_culture"
+  },
+  {
+    "context": "can i apply online",
+    "response": "To apply, visit our job board and click 'Apply Now' on any role.",
+    "intent": "apply"
+  },
+  {
+    "context": "lgbtq inclusive hai kya",
+    "response": "Mastercard values diversity and inclusion. Employees enjoy flexible work, learning programs, and competitive benefits.",
+    "intent": "company_culture"
+  },
+  {
+    "context": "buy laptop",
+    "response": "Hmm, that's outside my expertise! I can help with job searches, applications, and careers at Mastercard.",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "internship in delhi",
+    "response": "Great choice! Here are our current internship listings.",
+    "intent": "internship"
+  },
+  {
+    "context": "mastercard training programs",
+    "response": "Mastercard values diversity and inclusion. Employees enjoy flexible work, learning programs, and competitive benefits.",
+    "intent": "company_culture"
+  },
+  {
+    "context": "are you alexa",
+    "response": "I'm specialized in Mastercard career queries only. Try asking about jobs or internships!",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "can i upload a word document",
+    "response": "We accept PDF and Word document formats for resumes.",
+    "intent": "resume"
+  },
+  {
+    "context": "resume format for freshers",
+    "response": "You can upload your resume during the job application process on our careers site.",
+    "intent": "resume"
+  },
+  {
+    "context": "background check hoga kya",
+    "response": "The application process is simple — find a job, click apply, and submit your resume.",
+    "intent": "apply"
+  },
+  {
+    "context": "how many interview rounds",
+    "response": "The application process is simple — find a job, click apply, and submit your resume.",
+    "intent": "apply"
+  },
+  {
+    "context": "mujhe job chahiye",
+    "response": "Sure! Let me pull up the job listings for you.",
+    "intent": "job_search"
+  },
+  {
+    "context": "job ke liye apply karna hai",
+    "response": "Head over to our job board and click 'I'm Interested' on any role to begin.",
+    "intent": "apply"
+  },
+  {
+    "context": "good morning sir",
+    "response": "Hey! Looking for a job or internship? I'm here to help!",
+    "intent": "greeting"
+  },
+  {
+    "context": "1234",
+    "response": "I'm not able to help with that, but I can definitely help you find your dream job at Mastercard!",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "show intern positions",
+    "response": "Here are the internship opportunities we have available!",
+    "intent": "internship"
+  },
+  {
+    "context": "best chai recipe",
+    "response": "Hmm, that's outside my expertise! I can help with job searches, applications, and careers at Mastercard.",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "hlw",
+    "response": "Namaste! How can I help you explore careers at Mastercard?",
+    "intent": "greeting"
+  },
+  {
+    "context": "job search karna hai",
+    "response": "Sure! Let me pull up the job listings for you.",
+    "intent": "job_search"
+  },
+  {
+    "context": "free resume builder",
+    "response": "Head to the job listing you want and click Apply — you'll find the resume upload option there.",
+    "intent": "resume"
+  },
+  {
+    "context": "send money",
+    "response": "I'm specialized in Mastercard career queries only. Try asking about jobs or internships!",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "jobs for civil engineers",
+    "response": "Sure! Let me pull up the job listings for you.",
+    "intent": "job_search"
+  },
+  {
+    "context": "horoscope today",
+    "response": "I'm not able to help with that, but I can definitely help you find your dream job at Mastercard!",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "what is your name bro",
+    "response": "Hmm, that's outside my expertise! I can help with job searches, applications, and careers at Mastercard.",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "computer science jobs",
+    "response": "Great! Here are the available job listings.",
+    "intent": "job_search"
+  },
+  {
+    "context": "diversity inclusion programs",
+    "response": "Mastercard is known for its inclusive, innovative culture with strong work-life balance!",
+    "intent": "company_culture"
+  },
+  {
+    "context": "hey what is happening",
+    "response": "Namaste! How can I help you explore careers at Mastercard?",
+    "intent": "greeting"
+  },
+  {
+    "context": "veterans support hai kya",
+    "response": "We offer a collaborative work environment, hybrid work options, and great career growth opportunities.",
+    "intent": "company_culture"
+  },
+  {
+    "context": "i want an internship",
+    "response": "Great choice! Here are our current internship listings.",
+    "intent": "internship"
+  },
+  {
+    "context": "vp level openings",
+    "response": "Here are jobs matching your experience level!",
+    "intent": "experience_filter"
+  },
+  {
+    "context": "career counseling chahiye",
+    "response": "Sure! I can show you job listings, internships, help with applications, and tell you about our culture.",
+    "intent": "help"
+  },
+  {
+    "context": "more details",
+    "response": "Sure! I can show you job listings, internships, help with applications, and tell you about our culture.",
+    "intent": "help"
+  },
+  {
+    "context": "content internship",
+    "response": "Here are the internship opportunities we have available!",
+    "intent": "internship"
+  },
+  {
+    "context": "jobs for 2 to 5 years experience",
+    "response": "Let me filter jobs based on your experience.",
+    "intent": "experience_filter"
+  },
+  {
+    "context": "kya karna chahiye",
+    "response": "Think of me as your Mastercard career guide! Ask about jobs, roles, or how to apply.",
+    "intent": "help"
+  },
+  {
+    "context": "heyy",
+    "response": "Hey! Looking for a job or internship? I'm here to help!",
+    "intent": "greeting"
+  },
+  {
+    "context": "kuch samajh nahi aya",
+    "response": "Think of me as your Mastercard career guide! Ask about jobs, roles, or how to apply.",
+    "intent": "help"
+  },
+  {
+    "context": "i am confused",
+    "response": "Sure! I can show you job listings, internships, help with applications, and tell you about our culture.",
+    "intent": "help"
+  },
+  {
+    "context": "ek saath kai jobs ke liye apply kar sakta hoon",
+    "response": "Head over to our job board and click 'I'm Interested' on any role to begin.",
+    "intent": "apply"
+  },
+  {
+    "context": "what positions are open",
+    "response": "I found several positions for you. Take a look!",
+    "intent": "job_search"
+  },
+  {
+    "context": "hey hope everything is okay",
+    "response": "Good to see you! How can I assist you today?",
+    "intent": "greeting"
+  },
+  {
+    "context": "electronics internship",
+    "response": "Found some internship openings for you!",
+    "intent": "internship"
+  },
+  {
+    "context": "jobs in pune",
+    "response": "I found several positions for you. Take a look!",
+    "intent": "job_search"
+  },
+  {
+    "context": "i want a software job",
+    "response": "Sure! Let me pull up the job listings for you.",
+    "intent": "job_search"
+  },
+  {
+    "context": "weather today",
+    "response": "I'm specialized in Mastercard career queries only. Try asking about jobs or internships!",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "senior level jobs",
+    "response": "Here are jobs matching your experience level!",
+    "intent": "experience_filter"
+  },
+  {
+    "context": "full time jobs",
+    "response": "Here are some job openings that match your search!",
+    "intent": "job_search"
+  },
+  {
+    "context": "where do i start",
+    "response": "Sure! I can show you job listings, internships, help with applications, and tell you about our culture.",
+    "intent": "help"
+  },
+  {
+    "context": "domain change",
+    "response": "Here are jobs matching your experience level!",
+    "intent": "experience_filter"
+  },
+  {
+    "context": "show full time jobs",
+    "response": "Sure! Let me pull up the job listings for you.",
+    "intent": "job_search"
+  },
+  {
+    "context": "show available positions",
+    "response": "Sure! Let me pull up the job listings for you.",
+    "intent": "job_search"
+  },
+  {
+    "context": "morning",
+    "response": "Hello! Welcome to Mastercard Careers. What can I help you with?",
+    "intent": "greeting"
+  },
+  {
+    "context": "haha",
+    "response": "I'm not able to help with that, but I can definitely help you find your dream job at Mastercard!",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "do you have feelings",
+    "response": "Hmm, that's outside my expertise! I can help with job searches, applications, and careers at Mastercard.",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "resume mein kya kya hona chahiye",
+    "response": "Head to the job listing you want and click Apply — you'll find the resume upload option there.",
+    "intent": "resume"
+  },
+  {
+    "context": "what is the hiring process",
+    "response": "Head over to our job board and click 'I'm Interested' on any role to begin.",
+    "intent": "apply"
+  },
+  {
+    "context": "how to make tea",
+    "response": "I'm not able to help with that, but I can definitely help you find your dream job at Mastercard!",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "good evening mam",
+    "response": "Hi there! How can I help you with your job search today?",
+    "intent": "greeting"
+  },
+  {
+    "context": "application submit karna hai",
+    "response": "To apply, visit our job board and click 'Apply Now' on any role.",
+    "intent": "apply"
+  },
+  {
+    "context": "resume size too large",
+    "response": "We accept PDF and Word document formats for resumes.",
+    "intent": "resume"
+  },
+  {
+    "context": "hi lets get started",
+    "response": "Good to see you! How can I assist you today?",
+    "intent": "greeting"
+  },
+  {
+    "context": "hai",
+    "response": "Hello! Welcome to Mastercard Careers. What can I help you with?",
+    "intent": "greeting"
+  },
+  {
+    "context": "technology jobs",
+    "response": "Great! Here are the available job listings.",
+    "intent": "job_search"
+  },
+  {
+    "context": "funny videos",
+    "response": "I'm specialized in Mastercard career queries only. Try asking about jobs or internships!",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "apply for multiple jobs",
+    "response": "To apply, visit our job board and click 'Apply Now' on any role.",
+    "intent": "apply"
+  },
+  {
+    "context": "internship chahiye",
+    "response": "Here are the internship opportunities we have available!",
+    "intent": "internship"
+  },
+  {
+    "context": "open google",
+    "response": "I'm not able to help with that, but I can definitely help you find your dream job at Mastercard!",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "lead level positions",
+    "response": "Let me filter jobs based on your experience.",
+    "intent": "experience_filter"
+  },
+  {
+    "context": "internship in mumbai",
+    "response": "Great choice! Here are our current internship listings.",
+    "intent": "internship"
+  },
+  {
+    "context": "career guidance chahiye",
+    "response": "I can help you find jobs, internships, guide you to apply, and answer career questions!",
+    "intent": "help"
+  },
+  {
+    "context": "application form kahan hai",
+    "response": "To apply, visit our job board and click 'Apply Now' on any role.",
+    "intent": "apply"
+  },
+  {
+    "context": "cybersecurity internship",
+    "response": "Found some internship openings for you!",
+    "intent": "internship"
+  },
+  {
+    "context": "design internship",
+    "response": "Here are the internship opportunities we have available!",
+    "intent": "internship"
+  },
+  {
+    "context": "mentorship available hai",
+    "response": "Mastercard values diversity and inclusion. Employees enjoy flexible work, learning programs, and competitive benefits.",
+    "intent": "company_culture"
+  },
+  {
+    "context": "resume screening kaise hoti hai",
+    "response": "You can upload your resume during the job application process on our careers site.",
+    "intent": "resume"
+  },
+  {
+    "context": "pre final year internship",
+    "response": "Great choice! Here are our current internship listings.",
+    "intent": "internship"
+  },
+  {
+    "context": "entry level analyst jobs",
+    "response": "Here are jobs matching your experience level!",
+    "intent": "experience_filter"
+  },
+  {
+    "context": "mca internship",
+    "response": "Found some internship openings for you!",
+    "intent": "internship"
+  },
+  {
+    "context": "hello hope you are doing well",
+    "response": "Namaste! How can I help you explore careers at Mastercard?",
+    "intent": "greeting"
+  },
+  {
+    "context": "certifications kaise add karein",
+    "response": "Head to the job listing you want and click Apply — you'll find the resume upload option there.",
+    "intent": "resume"
+  },
+  {
+    "context": "ml internship",
+    "response": "Here are the internship opportunities we have available!",
+    "intent": "internship"
+  },
+  {
+    "context": "part time internship",
+    "response": "Great choice! Here are our current internship listings.",
+    "intent": "internship"
+  },
+  {
+    "context": "how to pass ats",
+    "response": "You can upload your resume during the job application process on our careers site.",
+    "intent": "resume"
+  },
+  {
+    "context": "show me jobs in delhi",
+    "response": "Great! Here are the available job listings.",
+    "intent": "job_search"
+  },
+  {
+    "context": "3 sal ka experience hai mera",
+    "response": "Let me filter jobs based on your experience.",
+    "intent": "experience_filter"
+  },
+  {
+    "context": "how to apply",
+    "response": "To apply, visit our job board and click 'Apply Now' on any role.",
+    "intent": "apply"
+  },
+  {
+    "context": "mission kya hai mastercard ki",
+    "response": "Mastercard is known for its inclusive, innovative culture with strong work-life balance!",
+    "intent": "company_culture"
+  },
+  {
+    "context": "chatbot ke features kya hain",
+    "response": "I can help you find jobs, internships, guide you to apply, and answer career questions!",
+    "intent": "help"
+  },
+  {
+    "context": "manager kaisa hota hai",
+    "response": "Mastercard values diversity and inclusion. Employees enjoy flexible work, learning programs, and competitive benefits.",
+    "intent": "company_culture"
+  },
+  {
+    "context": "stipend wala internship",
+    "response": "Great choice! Here are our current internship listings.",
+    "intent": "internship"
+  },
+  {
+    "context": "qwerty",
+    "response": "I'm specialized in Mastercard career queries only. Try asking about jobs or internships!",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "aage kya karun",
+    "response": "I can help you find jobs, internships, guide you to apply, and answer career questions!",
+    "intent": "help"
+  },
+  {
+    "context": "career growth tips",
+    "response": "Sure! I can show you job listings, internships, help with applications, and tell you about our culture.",
+    "intent": "help"
+  },
+  {
+    "context": "uncertain about career",
+    "response": "Think of me as your Mastercard career guide! Ask about jobs, roles, or how to apply.",
+    "intent": "help"
+  },
+  {
+    "context": "order pizza",
+    "response": "I'm specialized in Mastercard career queries only. Try asking about jobs or internships!",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "hi good evening",
+    "response": "Hello! Welcome to Mastercard Careers. What can I help you with?",
+    "intent": "greeting"
+  },
+  {
+    "context": "shortlist hone ke baad kya",
+    "response": "To apply, visit our job board and click 'Apply Now' on any role.",
+    "intent": "apply"
+  },
+  {
+    "context": "how can you help me",
+    "response": "I can help you find jobs, internships, guide you to apply, and answer career questions!",
+    "intent": "help"
+  },
+  {
+    "context": "best jobs available",
+    "response": "Here are some job openings that match your search!",
+    "intent": "job_search"
+  },
+  {
+    "context": "social responsibility",
+    "response": "We offer a collaborative work environment, hybrid work options, and great career growth opportunities.",
+    "intent": "company_culture"
+  },
+  {
+    "context": "i graduated this year",
+    "response": "Let me filter jobs based on your experience.",
+    "intent": "experience_filter"
+  },
+  {
+    "context": "hotel booking",
+    "response": "I'm not able to help with that, but I can definitely help you find your dream job at Mastercard!",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "i want to update my cv",
+    "response": "You can upload your resume during the job application process on our careers site.",
+    "intent": "resume"
+  },
+  {
+    "context": "do my assignment",
+    "response": "I'm not able to help with that, but I can definitely help you find your dream job at Mastercard!",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "part time jobs",
+    "response": "Sure! Let me pull up the job listings for you.",
+    "intent": "job_search"
+  },
+  {
+    "context": "referral se apply kar sakta hoon",
+    "response": "To apply, visit our job board and click 'Apply Now' on any role.",
+    "intent": "apply"
+  },
+  {
+    "context": "teach me python",
+    "response": "I'm not able to help with that, but I can definitely help you find your dream job at Mastercard!",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "kya haal hai",
+    "response": "Hi there! How can I help you with your job search today?",
+    "intent": "greeting"
+  },
+  {
+    "context": "hi there hope all is well",
+    "response": "Hello! Welcome to Mastercard Careers. What can I help you with?",
+    "intent": "greeting"
+  },
+  {
+    "context": "graduate internship",
+    "response": "Great choice! Here are our current internship listings.",
+    "intent": "internship"
+  },
+  {
+    "context": "hi i am back",
+    "response": "Namaste! How can I help you explore careers at Mastercard?",
+    "intent": "greeting"
+  },
+  {
+    "context": "immediate job opening",
+    "response": "Sure! Let me pull up the job listings for you.",
+    "intent": "job_search"
+  },
+  {
+    "context": "complete job list",
+    "response": "Here are some job openings that match your search!",
+    "intent": "job_search"
+  },
+  {
+    "context": "what is 2 plus 2",
+    "response": "Hmm, that's outside my expertise! I can help with job searches, applications, and careers at Mastercard.",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "employee satisfaction",
+    "response": "We offer a collaborative work environment, hybrid work options, and great career growth opportunities.",
+    "intent": "company_culture"
+  },
+  {
+    "context": "next step kya hai",
+    "response": "I can help you find jobs, internships, guide you to apply, and answer career questions!",
+    "intent": "help"
+  },
+  {
+    "context": "ui ux internship",
+    "response": "Here are the internship opportunities we have available!",
+    "intent": "internship"
+  },
+  {
+    "context": "is mastercard a good company",
+    "response": "We offer a collaborative work environment, hybrid work options, and great career growth opportunities.",
+    "intent": "company_culture"
+  },
+  {
+    "context": "work from home jobs",
+    "response": "Here are some job openings that match your search!",
+    "intent": "job_search"
+  },
+  {
+    "context": "help chahiye",
+    "response": "I can help you find jobs, internships, guide you to apply, and answer career questions!",
+    "intent": "help"
+  },
+  {
+    "context": "hi new user",
+    "response": "Hello! Welcome to Mastercard Careers. What can I help you with?",
+    "intent": "greeting"
+  },
+  {
+    "context": "show consulting jobs",
+    "response": "I found several positions for you. Take a look!",
+    "intent": "job_search"
+  },
+  {
+    "context": "mujhe career ke baare mein batao",
+    "response": "Think of me as your Mastercard career guide! Ask about jobs, roles, or how to apply.",
+    "intent": "help"
+  },
+  {
+    "context": "show software engineer jobs",
+    "response": "Great! Here are the available job listings.",
+    "intent": "job_search"
+  },
+  {
+    "context": "i want to find a job",
+    "response": "Sure! Let me pull up the job listings for you.",
+    "intent": "job_search"
+  },
+  {
+    "context": "show product manager jobs",
+    "response": "Sure! Let me pull up the job listings for you.",
+    "intent": "job_search"
+  },
+  {
+    "context": "how does this work",
+    "response": "Think of me as your Mastercard career guide! Ask about jobs, roles, or how to apply.",
+    "intent": "help"
+  },
+  {
+    "context": "marketing jobs show karo",
+    "response": "I found several positions for you. Take a look!",
+    "intent": "job_search"
+  },
+  {
+    "context": "hey assistant",
+    "response": "Hello! Welcome to Mastercard Careers. What can I help you with?",
+    "intent": "greeting"
+  },
+  {
+    "context": "hey begin",
+    "response": "Hello! Welcome to Mastercard Careers. What can I help you with?",
+    "intent": "greeting"
+  },
+  {
+    "context": "i dont have a resume what do i do",
+    "response": "We accept PDF and Word document formats for resumes.",
+    "intent": "resume"
+  },
+  {
+    "context": "how to get hired",
+    "response": "To apply, visit our job board and click 'Apply Now' on any role.",
+    "intent": "apply"
+  },
+  {
+    "context": "cover letter kaise likhein",
+    "response": "Head to the job listing you want and click Apply — you'll find the resume upload option there.",
+    "intent": "resume"
+  },
+  {
+    "context": "jobs in kolkata",
+    "response": "I found several positions for you. Take a look!",
+    "intent": "job_search"
+  },
+  {
+    "context": "career advice chahiye",
+    "response": "Think of me as your Mastercard career guide! Ask about jobs, roles, or how to apply.",
+    "intent": "help"
+  },
+  {
+    "context": "do you have intern roles",
+    "response": "Here are the internship opportunities we have available!",
+    "intent": "internship"
+  },
+  {
+    "context": "who is better you or chatgpt",
+    "response": "I'm not able to help with that, but I can definitely help you find your dream job at Mastercard!",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "hey how is everything",
+    "response": "Hey! Looking for a job or internship? I'm here to help!",
+    "intent": "greeting"
+  },
+  {
+    "context": "consulting internship",
+    "response": "Found some internship openings for you!",
+    "intent": "internship"
+  },
+  {
+    "context": "internship with ppo",
+    "response": "Great choice! Here are our current internship listings.",
+    "intent": "internship"
+  },
+  {
+    "context": "help karo please",
+    "response": "Sure! I can show you job listings, internships, help with applications, and tell you about our culture.",
+    "intent": "help"
+  },
+  {
+    "context": "recipe for biryani",
+    "response": "Hmm, that's outside my expertise! I can help with job searches, applications, and careers at Mastercard.",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "not sure what to do",
+    "response": "I can help you find jobs, internships, guide you to apply, and answer career questions!",
+    "intent": "help"
+  },
+  {
+    "context": "can i send my resume",
+    "response": "You can upload your resume during the job application process on our careers site.",
+    "intent": "resume"
+  },
+  {
+    "context": "hi what is going on",
+    "response": "Good to see you! How can I assist you today?",
+    "intent": "greeting"
+  },
+  {
+    "context": "ai internship",
+    "response": "Found some internship openings for you!",
+    "intent": "internship"
+  },
+  {
+    "context": "browse internet",
+    "response": "I'm not able to help with that, but I can definitely help you find your dream job at Mastercard!",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "linkedin profile update karna chahiye",
+    "response": "We accept PDF and Word document formats for resumes.",
+    "intent": "resume"
+  },
+  {
+    "context": "internship in pune",
+    "response": "Here are the internship opportunities we have available!",
+    "intent": "internship"
+  },
+  {
+    "context": "what is pi",
+    "response": "I'm not able to help with that, but I can definitely help you find your dream job at Mastercard!",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "youtube",
+    "response": "I'm specialized in Mastercard career queries only. Try asking about jobs or internships!",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "jobs for 0 to 2 years",
+    "response": "Let me filter jobs based on your experience.",
+    "intent": "experience_filter"
+  },
+  {
+    "context": "application process kya hai",
+    "response": "Head over to our job board and click 'I'm Interested' on any role to begin.",
+    "intent": "apply"
+  },
+  {
+    "context": "how does the application work",
+    "response": "The application process is simple — find a job, click apply, and submit your resume.",
+    "intent": "apply"
+  },
+  {
+    "context": "ugh",
+    "response": "I'm not able to help with that, but I can definitely help you find your dream job at Mastercard!",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "sing a song",
+    "response": "I'm not able to help with that, but I can definitely help you find your dream job at Mastercard!",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "konsi job sahi rahegi",
+    "response": "Sure! I can show you job listings, internships, help with applications, and tell you about our culture.",
+    "intent": "help"
+  },
+  {
+    "context": "perfect",
+    "response": "I'm not able to help with that, but I can definitely help you find your dream job at Mastercard!",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "work from office internship",
+    "response": "Here are the internship opportunities we have available!",
+    "intent": "internship"
+  },
+  {
+    "context": "document verification process",
+    "response": "The application process is simple — find a job, click apply, and submit your resume.",
+    "intent": "apply"
+  },
+  {
+    "context": "how can i submit my application",
+    "response": "To apply, visit our job board and click 'Apply Now' on any role.",
+    "intent": "apply"
+  },
+  {
+    "context": "hi how are you doing",
+    "response": "Hey! Looking for a job or internship? I'm here to help!",
+    "intent": "greeting"
+  },
+  {
+    "context": "i have 15 years of experience",
+    "response": "Let me filter jobs based on your experience.",
+    "intent": "experience_filter"
+  },
+  {
+    "context": "kya case study hogi",
+    "response": "The application process is simple — find a job, click apply, and submit your resume.",
+    "intent": "apply"
+  },
+  {
+    "context": "apply karne ke baad kitna time lagega",
+    "response": "To apply, visit our job board and click 'Apply Now' on any role.",
+    "intent": "apply"
+  },
+  {
+    "context": "software internship",
+    "response": "Great choice! Here are our current internship listings.",
+    "intent": "internship"
+  },
+  {
+    "context": "internship opportunities",
+    "response": "Here are the internship opportunities we have available!",
+    "intent": "internship"
+  },
+  {
+    "context": "heyyy",
+    "response": "Namaste! How can I help you explore careers at Mastercard?",
+    "intent": "greeting"
+  },
+  {
+    "context": "afternoon",
+    "response": "Hey! Looking for a job or internship? I'm here to help!",
+    "intent": "greeting"
+  },
+  {
+    "context": "hey there how is it going",
+    "response": "Namaste! How can I help you explore careers at Mastercard?",
+    "intent": "greeting"
+  },
+  {
+    "context": "are you siri",
+    "response": "I'm specialized in Mastercard career queries only. Try asking about jobs or internships!",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "rojgar chahiye",
+    "response": "I found several positions for you. Take a look!",
+    "intent": "job_search"
+  },
+  {
+    "context": "naukri dikhao",
+    "response": "I found several positions for you. Take a look!",
+    "intent": "job_search"
+  },
+  {
+    "context": "pdf resume upload hoga",
+    "response": "We accept PDF and Word document formats for resumes.",
+    "intent": "resume"
+  },
+  {
+    "context": "hr round kya hota hai",
+    "response": "The application process is simple — find a job, click apply, and submit your resume.",
+    "intent": "apply"
+  },
+  {
+    "context": "hi assistant",
+    "response": "Namaste! How can I help you explore careers at Mastercard?",
+    "intent": "greeting"
+  },
+  {
+    "context": "hey there everything okay",
+    "response": "Hi there! How can I help you with your job search today?",
+    "intent": "greeting"
+  },
+  {
+    "context": "hello what is the latest",
+    "response": "Namaste! How can I help you explore careers at Mastercard?",
+    "intent": "greeting"
+  },
+  {
+    "context": "any openings",
+    "response": "Here are some job openings that match your search!",
+    "intent": "job_search"
+  },
+  {
+    "context": "show all positions",
+    "response": "Great! Here are the available job listings.",
+    "intent": "job_search"
+  },
+  {
+    "context": "appraisal process kya hai",
+    "response": "Mastercard values diversity and inclusion. Employees enjoy flexible work, learning programs, and competitive benefits.",
+    "intent": "company_culture"
+  },
+  {
+    "context": "entry level jobs",
+    "response": "Found positions suited to your experience.",
+    "intent": "experience_filter"
+  },
+  {
+    "context": "show me internships",
+    "response": "Found some internship openings for you!",
+    "intent": "internship"
+  },
+  {
+    "context": "hey guide me",
+    "response": "Good to see you! How can I assist you today?",
+    "intent": "greeting"
+  },
+  {
+    "context": "work from home allowed hai kya",
+    "response": "Mastercard is known for its inclusive, innovative culture with strong work-life balance!",
+    "intent": "company_culture"
+  },
+  {
+    "context": "tailored resume kaise banayein",
+    "response": "You can upload your resume during the job application process on our careers site.",
+    "intent": "resume"
+  },
+  {
+    "context": "hi there good morning",
+    "response": "Namaste! How can I help you explore careers at Mastercard?",
+    "intent": "greeting"
+  },
+  {
+    "context": "flipkart offers",
+    "response": "I'm not able to help with that, but I can definitely help you find your dream job at Mastercard!",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "walk in jobs",
+    "response": "I found several positions for you. Take a look!",
+    "intent": "job_search"
+  },
+  {
+    "context": "maybe",
+    "response": "Hmm, that's outside my expertise! I can help with job searches, applications, and careers at Mastercard.",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "previously rejected apply again",
+    "response": "To apply, visit our job board and click 'Apply Now' on any role.",
+    "intent": "apply"
+  },
+  {
+    "context": "hlo",
+    "response": "Hey! Looking for a job or internship? I'm here to help!",
+    "intent": "greeting"
+  },
+  {
+    "context": "who is the president",
+    "response": "I'm specialized in Mastercard career queries only. Try asking about jobs or internships!",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "no experience jobs",
+    "response": "Here are jobs matching your experience level!",
+    "intent": "experience_filter"
+  },
+  {
+    "context": "new job listings",
+    "response": "Sure! Let me pull up the job listings for you.",
+    "intent": "job_search"
+  },
+  {
+    "context": "marketing internship",
+    "response": "Found some internship openings for you!",
+    "intent": "internship"
+  },
+  {
+    "context": "dikha do",
+    "response": "I can help you find jobs, internships, guide you to apply, and answer career questions!",
+    "intent": "help"
+  },
+  {
+    "context": "mid level data scientist jobs",
+    "response": "Here are jobs matching your experience level!",
+    "intent": "experience_filter"
+  },
+  {
+    "context": "mastercard awards",
+    "response": "We offer a collaborative work environment, hybrid work options, and great career growth opportunities.",
+    "intent": "company_culture"
+  },
+  {
+    "context": "yo",
+    "response": "Good to see you! How can I assist you today?",
+    "intent": "greeting"
+  },
+  {
+    "context": "random text",
+    "response": "I'm not able to help with that, but I can definitely help you find your dream job at Mastercard!",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "jobs with good salary",
+    "response": "Great! Here are the available job listings.",
+    "intent": "job_search"
+  },
+  {
+    "context": "compress resume kaise karein",
+    "response": "Head to the job listing you want and click Apply — you'll find the resume upload option there.",
+    "intent": "resume"
+  },
+  {
+    "context": "stock options milte hain",
+    "response": "Mastercard values diversity and inclusion. Employees enjoy flexible work, learning programs, and competitive benefits.",
+    "intent": "company_culture"
+  },
+  {
+    "context": "team dynamics kaisi hain",
+    "response": "Mastercard is known for its inclusive, innovative culture with strong work-life balance!",
+    "intent": "company_culture"
+  },
+  {
+    "context": "hey how is your day",
+    "response": "Namaste! How can I help you explore careers at Mastercard?",
+    "intent": "greeting"
+  },
+  {
+    "context": "debug my code",
+    "response": "Hmm, that's outside my expertise! I can help with job searches, applications, and careers at Mastercard.",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "internship dikhao",
+    "response": "Great choice! Here are our current internship listings.",
+    "intent": "internship"
+  },
+  {
+    "context": "book a flight",
+    "response": "I'm specialized in Mastercard career queries only. Try asking about jobs or internships!",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "shuru kaise karu",
+    "response": "I can help you find jobs, internships, guide you to apply, and answer career questions!",
+    "intent": "help"
+  },
+  {
+    "context": "online apply kaise hoga",
+    "response": "The application process is simple — find a job, click apply, and submit your resume.",
+    "intent": "apply"
+  },
+  {
+    "context": "application update karna hai",
+    "response": "To apply, visit our job board and click 'Apply Now' on any role.",
+    "intent": "apply"
+  },
+  {
+    "context": "job dhundhna hai",
+    "response": "Here are some job openings that match your search!",
+    "intent": "job_search"
+  },
+  {
+    "context": "onboarding process kaisa hai",
+    "response": "Mastercard is known for its inclusive, innovative culture with strong work-life balance!",
+    "intent": "company_culture"
+  },
+  {
+    "context": "what do employees say",
+    "response": "Mastercard values diversity and inclusion. Employees enjoy flexible work, learning programs, and competitive benefits.",
+    "intent": "company_culture"
+  },
+  {
+    "context": "entry level position",
+    "response": "Here are jobs matching your experience level!",
+    "intent": "experience_filter"
+  },
+  {
+    "context": "namaskar",
+    "response": "Hello! Welcome to Mastercard Careers. What can I help you with?",
+    "intent": "greeting"
+  },
+  {
+    "context": "flexible hours milte hain",
+    "response": "We offer a collaborative work environment, hybrid work options, and great career growth opportunities.",
+    "intent": "company_culture"
+  },
+  {
+    "context": "iphone 15 price",
+    "response": "Hmm, that's outside my expertise! I can help with job searches, applications, and careers at Mastercard.",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "internship work from home",
+    "response": "Found some internship openings for you!",
+    "intent": "internship"
+  },
+  {
+    "context": "hye",
+    "response": "Namaste! How can I help you explore careers at Mastercard?",
+    "intent": "greeting"
+  },
+  {
+    "context": "resume mein photo lagani chahiye kya",
+    "response": "Head to the job listing you want and click Apply — you'll find the resume upload option there.",
+    "intent": "resume"
+  },
+  {
+    "context": "i just passed out",
+    "response": "Let me filter jobs based on your experience.",
+    "intent": "experience_filter"
+  },
+  {
+    "context": "are you chatgpt",
+    "response": "I'm specialized in Mastercard career queries only. Try asking about jobs or internships!",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "resume format kya chahiye",
+    "response": "Head to the job listing you want and click Apply — you'll find the resume upload option there.",
+    "intent": "resume"
+  },
+  {
+    "context": "employee resource groups",
+    "response": "Mastercard is known for its inclusive, innovative culture with strong work-life balance!",
+    "intent": "company_culture"
+  },
+  {
+    "context": "new grad jobs",
+    "response": "Here are jobs matching your experience level!",
+    "intent": "experience_filter"
+  },
+  {
+    "context": "internship in bangalore",
+    "response": "Great choice! Here are our current internship listings.",
+    "intent": "internship"
+  },
+  {
+    "context": "internship kaise milega",
+    "response": "Here are the internship opportunities we have available!",
+    "intent": "internship"
+  },
+  {
+    "context": "senior consultant jobs",
+    "response": "Found positions suited to your experience.",
+    "intent": "experience_filter"
+  },
+  {
+    "context": "manager level openings",
+    "response": "Let me filter jobs based on your experience.",
+    "intent": "experience_filter"
+  },
+  {
+    "context": "hey long time",
+    "response": "Hi there! How can I help you with your job search today?",
+    "intent": "greeting"
+  },
+  {
+    "context": "looking for internship",
+    "response": "Found some internship openings for you!",
+    "intent": "internship"
+  },
+  {
+    "context": "disability support hai kya",
+    "response": "We offer a collaborative work environment, hybrid work options, and great career growth opportunities.",
+    "intent": "company_culture"
+  },
+  {
+    "context": "hey there",
+    "response": "Good to see you! How can I assist you today?",
+    "intent": "greeting"
+  },
+  {
+    "context": "shortlisting process kya hai",
+    "response": "To apply, visit our job board and click 'Apply Now' on any role.",
+    "intent": "apply"
+  },
+  {
+    "context": "undergraduate internship",
+    "response": "Here are the internship opportunities we have available!",
+    "intent": "internship"
+  },
+  {
+    "context": "jobs in hyderabad",
+    "response": "Great! Here are the available job listings.",
+    "intent": "job_search"
+  },
+  {
+    "context": "hello bot",
+    "response": "Hey! Looking for a job or internship? I'm here to help!",
+    "intent": "greeting"
+  },
+  {
+    "context": "i have 9 years of experience",
+    "response": "Let me filter jobs based on your experience.",
+    "intent": "experience_filter"
+  },
+  {
+    "context": "data science internship",
+    "response": "Great choice! Here are our current internship listings.",
+    "intent": "internship"
+  },
+  {
+    "context": "direct interview",
+    "response": "The application process is simple — find a job, click apply, and submit your resume.",
+    "intent": "apply"
+  },
+  {
+    "context": "college internship",
+    "response": "Here are the internship opportunities we have available!",
+    "intent": "internship"
+  },
+  {
+    "context": "resume not uploading",
+    "response": "You can upload your resume during the job application process on our careers site.",
+    "intent": "resume"
+  },
+  {
+    "context": "lmao",
+    "response": "Hmm, that's outside my expertise! I can help with job searches, applications, and careers at Mastercard.",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "discount coupons",
+    "response": "I'm not able to help with that, but I can definitely help you find your dream job at Mastercard!",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "jobs in india",
+    "response": "Great! Here are the available job listings.",
+    "intent": "job_search"
+  },
+  {
+    "context": "jobs for electronics students",
+    "response": "Here are some job openings that match your search!",
+    "intent": "job_search"
+  },
+  {
+    "context": "internship in chennai",
+    "response": "Great choice! Here are our current internship listings.",
+    "intent": "internship"
+  },
+  {
+    "context": "confused hoon",
+    "response": "Sure! I can show you job listings, internships, help with applications, and tell you about our culture.",
+    "intent": "help"
+  },
+  {
+    "context": "hi how is life",
+    "response": "Hi there! How can I help you with your job search today?",
+    "intent": "greeting"
+  },
+  {
+    "context": "hr internship",
+    "response": "Here are the internship opportunities we have available!",
+    "intent": "internship"
+  },
+  {
+    "context": "how many rounds are there",
+    "response": "The application process is simple — find a job, click apply, and submit your resume.",
+    "intent": "apply"
+  },
+  {
+    "context": "remote work policy kya hai",
+    "response": "We offer a collaborative work environment, hybrid work options, and great career growth opportunities.",
+    "intent": "company_culture"
+  },
+  {
+    "context": "awesome",
+    "response": "I'm not able to help with that, but I can definitely help you find your dream job at Mastercard!",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "director level jobs",
+    "response": "Here are jobs matching your experience level!",
+    "intent": "experience_filter"
+  },
+  {
+    "context": "performance review kab hota hai",
+    "response": "We offer a collaborative work environment, hybrid work options, and great career growth opportunities.",
+    "intent": "company_culture"
+  },
+  {
+    "context": "next steps after applying",
+    "response": "To apply, visit our job board and click 'Apply Now' on any role.",
+    "intent": "apply"
+  },
+  {
+    "context": "hi career bot",
+    "response": "Namaste! How can I help you explore careers at Mastercard?",
+    "intent": "greeting"
+  },
+  {
+    "context": "switch karna chahta hoon",
+    "response": "Let me filter jobs based on your experience.",
+    "intent": "experience_filter"
+  },
+  {
+    "context": "to be or not to be",
+    "response": "Hmm, that's outside my expertise! I can help with job searches, applications, and careers at Mastercard.",
+    "intent": "out_of_scope"
+  },
+  {
+    "context": "civil internship",
+    "response": "Found some internship openings for you!",
+    "intent": "internship"
+  },
+  {
+    "context": "junior software engineer jobs",
+    "response": "Let me filter jobs based on your experience.",
+    "intent": "experience_filter"
+  }
+]
